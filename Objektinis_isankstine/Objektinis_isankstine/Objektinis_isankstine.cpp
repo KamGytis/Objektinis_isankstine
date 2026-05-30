@@ -177,9 +177,8 @@ void findURLs(const std::string& inputFile, const std::string& outputFile) {
 int main() {
     const std::string INPUT = "tekstas.txt";
 
-    std::cout << "\n";
     std::cout << " Asociatyviu konteineriu uzduotis\n";
-    std::cout << "\n\n";
+    std::cout << "\n";
 
     wordFrequency(INPUT, "1_zodziu_daznumas.txt");
     crossReference(INPUT, "2_crossreference.txt");

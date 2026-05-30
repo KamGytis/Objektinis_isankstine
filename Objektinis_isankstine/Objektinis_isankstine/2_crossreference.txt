@@ -1,0 +1,2625 @@
+=== CROSS-REFERENCE LENTELE ===
+(Zod�iai pasikartojantys > 1 karta ir ju eilu?i? numeriai)
+
+agency
+   Eilutes: 610 612   (pasikartojim?: 2)
+
+akcja
+   Eilutes: 606 607   (pasikartojim?: 2)
+
+arena
+   Eilutes: 653   (pasikartojim?: 2)
+
+artlora
+   Eilutes: 621 623   (pasikartojim?: 2)
+
+audėjas
+   Eilutes: 361 622   (pasikartojim?: 2)
+
+autora
+   Eilutes: 592 595 596   (pasikartojim?: 3)
+
+bankas
+   Eilutes: 354   (pasikartojim?: 2)
+
+by
+   Eilutes: 117 726   (pasikartojim?: 2)
+
+c
+   Eilutes: 231 465   (pasikartojim?: 2)
+
+cities
+   Eilutes: 574 660   (pasikartojim?: 2)
+
+city
+   Eilutes: 573 582   (pasikartojim?: 3)
+
+data
+   Eilutes: 610 612   (pasikartojim?: 2)
+
+european
+   Eilutes: 644 646 647   (pasikartojim?: 4)
+
+fk
+   Eilutes: 649   (pasikartojim?: 2)
+
+foundation
+   Eilutes: 723 725   (pasikartojim?: 2)
+
+gyventojų
+   Eilutes: 568 613   (pasikartojim?: 2)
+
+i
+   Eilutes: 209 597 599   (pasikartojim?: 4)
+
+ii
+   Eilutes: 220 695   (pasikartojim?: 2)
+
+in
+   Eilutes: 142 652 695   (pasikartojim?: 3)
+
+ir
+   Eilutes: 243 568 581 628   (pasikartojim?: 4)
+
+isbn
+   Eilutes: 576 579 581 588 590 591 595 621 623 693 694 695   (pasikartojim?: 13)
+
+istorija
+   Eilutes: 575 591 628   (pasikartojim?: 3)
+
+its
+   Eilutes: 646 653   (pasikartojim?: 2)
+
+juliusz
+   Eilutes: 592 595 596   (pasikartojim?: 3)
+
+kortelė
+   Eilutes: 382 637   (pasikartojim?: 2)
+
+krajoznawczy
+   Eilutes: 592 596   (pasikartojim?: 2)
+
+kronika
+   Eilutes: 595   (pasikartojim?: 2)
+
+kłos
+   Eilutes: 592 595 596   (pasikartojim?: 3)
+
+leidykla
+   Eilutes: 581 588 590   (pasikartojim?: 3)
+
+lff
+   Eilutes: 648 649   (pasikartojim?: 2)
+
+lietuvių
+   Eilutes: 575 577   (pasikartojim?: 2)
+
+lithuania
+   Eilutes: 610 612 644 651 652   (pasikartojim?: 5)
+
+machine
+   Eilutes: 567 580 598 605 607 614 628 629 630 632 635 637 640 642 643 658   (pasikartojim?: 20)
+
+miesto
+   Eilutes: 243 582   (pasikartojim?: 2)
+
+oddziału
+   Eilutes: 592 596   (pasikartojim?: 2)
+
+of
+   Eilutes: 574 598 610 612 646 647 651 652 695   (pasikartojim?: 9)
+
+paknio
+   Eilutes: 588 590   (pasikartojim?: 2)
+
+po
+   Eilutes: 592 595 596   (pasikartojim?: 3)
+
+polskiego
+   Eilutes: 592 596   (pasikartojim?: 2)
+
+poprawione
+   Eilutes: 592 595 596   (pasikartojim?: 3)
+
+przewodnik
+   Eilutes: 588 590 592 596   (pasikartojim?: 4)
+
+r
+   Eilutes: 588 590 599   (pasikartojim?: 3)
+
+senukai
+   Eilutes: 350 620   (pasikartojim?: 2)
+
+skaičius
+   Eilutes: 568 613   (pasikartojim?: 2)
+
+stadium
+   Eilutes: 649 651 652   (pasikartojim?: 3)
+
+stadiumdb
+   Eilutes: 648 651   (pasikartojim?: 2)
+
+state
+   Eilutes: 610 612   (pasikartojim?: 2)
+
+the
+   Eilutes: 573 574 582 598 647 649 651 695   (pasikartojim?: 10)
+
+to
+   Eilutes: 644 649 652   (pasikartojim?: 3)
+
+tomas
+   Eilutes: 588 590   (pasikartojim?: 2)
+
+towarzystwa
+   Eilutes: 592 596   (pasikartojim?: 2)
+
+trzecie
+   Eilutes: 592 595 596   (pasikartojim?: 3)
+
+turystyczniego-krajoznawczego
+   Eilutes: 592 596   (pasikartojim?: 2)
+
+universitetas
+   Eilutes: 659   (pasikartojim?: 3)
+
+utc
+   Eilutes: 95   (pasikartojim?: 2)
+
+vanagas
+   Eilutes: 577 581   (pasikartojim?: 2)
+
+venclova
+   Eilutes: 588 590   (pasikartojim?: 2)
+
+vilna
+   Eilutes: 142   (pasikartojim?: 2)
+
+vilniaus
+   Eilutes: 243 396 409 582 591 613 616 617 619 659   (pasikartojim?: 12)
+
+vilniečio
+   Eilutes: 382 637   (pasikartojim?: 2)
+
+vilnius
+   Eilutes: 72 119 136 142 575 577 581 582 590 591 618 621 623 644 646 647 652 653 656 694   (pasikartojim?: 20)
+
+vilniuslt
+   Eilutes: 114 573 614 660 702   (pasikartojim?: 5)
+
+vilnius»
+   Eilutes: 388 640   (pasikartojim?: 2)
+
+w
+   Eilutes: 605   (pasikartojim?: 2)
+
+warszawa
+   Eilutes: 580 595 599   (pasikartojim?: 3)
+
+wayback
+   Eilutes: 567 580 598 605 607 614 628 629 630 632 635 637 640 642 643 658   (pasikartojim?: 20)
+
+wikimedia
+   Eilutes: 723 725   (pasikartojim?: 2)
+
+wileńskiego
+   Eilutes: 592 596   (pasikartojim?: 2)
+
+wilno
+   Eilutes: 119 142 588 590 592 596 599 605 694   (pasikartojim?: 11)
+
+wydanie
+   Eilutes: 590 592 595 596   (pasikartojim?: 4)
+
+wydawnictwo
+   Eilutes: 592 595 596   (pasikartojim?: 3)
+
+xiii
+   Eilutes: 89 720   (pasikartojim?: 2)
+
+xiv
+   Eilutes: 185 465   (pasikartojim?: 4)
+
+xix
+   Eilutes: 208 213 380 463   (pasikartojim?: 4)
+
+xvi
+   Eilutes: 142 465 472   (pasikartojim?: 6)
+
+xviii
+   Eilutes: 200 465   (pasikartojim?: 2)
+
+z
+   Eilutes: 575 597 599   (pasikartojim?: 3)
+
+zgonie
+   Eilutes: 592 595 596   (pasikartojim?: 3)
+
+«cyclocity
+   Eilutes: 388 640   (pasikartojim?: 2)
+
+«Вильнюс
+   Eilutes: 600 638 658   (pasikartojim?: 3)
+
+«Вильняус
+   Eilutes: 213 361   (pasikartojim?: 4)
+
+«Жальгирис»
+   Eilutes: 363 403 624   (pasikartojim?: 3)
+
+«Завод
+   Eilutes: 363 625   (pasikartojim?: 2)
+
+«Погода
+   Eilutes: 171 583   (pasikartojim?: 2)
+
+«Столицы
+   Eilutes: 712 716   (pasikartojim?: 2)
+
+«скорых
+   Eilutes: 384 639   (pasikartojim?: 2)
+
+°c
+   Eilutes: 160 165 166 167 168 169   (pasikartojim?: 6)
+
+°′
+   Eilutes: 65 82   (pasikartojim?: 4)
+
+А
+   Eilutes: 442 580 587 638   (pasikartojim?: 6)
+
+Абсолютный
+   Eilutes: 165 169   (pasikartojim?: 2)
+
+Академия
+   Eilutes: 190 429   (pasikartojim?: 2)
+
+Анны
+   Eilutes: 79 462 465   (pasikartojim?: 3)
+
+Антония
+   Eilutes: 465 476   (pasikartojim?: 2)
+
+Арсенал
+   Eilutes: 438   (pasikartojim?: 2)
+
+Артурас
+   Eilutes: 331 334   (pasikartojim?: 2)
+
+Архивировано
+   Eilutes: 568 569 572 573 574 582 583 584 585 586 587 589 599 600 601 602 604 606 613 615 616 617 618 620 622 624 626 627 633 634 636 641 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 690   (pasikartojim?: 50)
+
+Архивная
+   Eilutes: 567 580 598 605 607 614 628 629 630 632 635 637 640 642 643 658   (pasikartojim?: 20)
+
+Архитектура
+   Eilutes: 28 458   (pasikartojim?: 2)
+
+Балтии
+   Eilutes: 412 589   (pasikartojim?: 2)
+
+Башня
+   Eilutes: 79 438 474 482 483   (pasikartojim?: 5)
+
+Беларуси
+   Eilutes: 149 344 348 376 423   (pasikartojim?: 5)
+
+Беларусью
+   Eilutes: 121 149   (pasikartojim?: 2)
+
+Белоруссии
+   Eilutes: 222 224   (pasikartojim?: 2)
+
+Бенкунскас
+   Eilutes: 87 299 336   (pasikartojim?: 3)
+
+Библиотека
+   Eilutes: 444   (pasikartojim?: 2)
+
+Бируте
+   Eilutes: 621 623   (pasikartojim?: 2)
+
+Божией
+   Eilutes: 209 465   (pasikartojim?: 2)
+
+Большая
+   Eilutes: 478 710   (pasikartojim?: 2)
+
+Брокгауза
+   Eilutes: 570 571 587 692 710   (pasikartojim?: 5)
+
+Бывший
+   Eilutes: 409 423   (pasikartojim?: 2)
+
+В
+   Eilutes: 129 136 142 185 190 194 196 198 200 209 211 213 220 222 224 234 243 245 247 249 254 278 290 295 350 354 357 363 380 384 403 406 415 419 423 429 435 444 463 474 498 632 657 697 703 711   (pasikartojim?: 69)
+
+ВВП
+   Eilutes: 121 340   (pasikartojim?: 3)
+
+Валдас
+   Eilutes: 87 299 336   (pasikartojim?: 3)
+
+Великого
+   Eilutes: 125 185 190   (pasikartojim?: 3)
+
+Венцлова
+   Eilutes: 579 693   (pasikartojim?: 2)
+
+Викигиде
+   Eilutes: 116 701   (pasikartojim?: 2)
+
+Википедии
+   Eilutes: 4 66   (pasikartojim?: 2)
+
+Викискладе
+   Eilutes: 115 699   (pasikartojim?: 2)
+
+Виленский
+   Eilutes: 209 211 229   (pasikartojim?: 3)
+
+Виленским
+   Eilutes: 190 224   (pasikartojim?: 2)
+
+Виленского
+   Eilutes: 229 439   (pasikartojim?: 2)
+
+Виленское
+   Eilutes: 229 468   (pasikartojim?: 2)
+
+Виленской
+   Eilutes: 205 229 234   (pasikartojim?: 4)
+
+Вилии
+   Eilutes: 138 474   (pasikartojim?: 2)
+
+Вилия
+   Eilutes: 140 149   (pasikartojim?: 2)
+
+Вильна
+   Eilutes: 91 127 135 138 142 144 190 198 200 204 205 213 570 571 589 658 692   (pasikartojim?: 19)
+
+Вильне
+   Eilutes: 190 208 211 213   (pasikartojim?: 4)
+
+Вильни
+   Eilutes: 121 138 181 580   (pasikartojim?: 5)
+
+Вильно
+   Eilutes: 92 127 144 222 224 226 234 236 658   (pasikartojim?: 13)
+
+Вильну
+   Eilutes: 185 196 209 211   (pasikartojim?: 4)
+
+Вильны
+   Eilutes: 189 200 211 213 218   (pasikartojim?: 5)
+
+Вильнюс
+   Eilutes: 35 69 71 112 113 121 127 129 136 149 153 236 240 242 243 245 249 252 275 280 340 344 369 370 374 376 463 468 494 562 579 608 630 631 633 634 636 693 702   (pasikartojim?: 47)
+
+Вильнюса
+   Eilutes: 74 117 118 156 163 173 177 249 257 288 292 299 339 370 376 403 409 432 460 463 472 480 583 586 614 638   (pasikartojim?: 27)
+
+Вильнюсе
+   Eilutes: 158 243 254 348 350 357 363 390 399 412 415 423 429 435 444 463 465 496 498 619 641 657   (pasikartojim?: 24)
+
+Вильнюсская
+   Eilutes: 217 354 399 423 437 604   (pasikartojim?: 6)
+
+Вильнюсский
+   Eilutes: 85 121 213 247 363 365 372 379 384 422 423 452 453 454 457 626 627 629   (pasikartojim?: 24)
+
+Вильнюсского
+   Eilutes: 119 243 295 441 444 472   (pasikartojim?: 12)
+
+Вильнюсское
+   Eilutes: 86 247   (pasikartojim?: 2)
+
+Вильнюсской
+   Eilutes: 249 423   (pasikartojim?: 2)
+
+Вильнюсском
+   Eilutes: 243 423   (pasikartojim?: 2)
+
+Вильня
+   Eilutes: 142 149 363   (pasikartojim?: 4)
+
+Владислава
+   Eilutes: 478 491 492   (pasikartojim?: 3)
+
+Власть
+   Eilutes: 17 294   (pasikartojim?: 2)
+
+Во
+   Eilutes: 129 183   (pasikartojim?: 2)
+
+Вознесения
+   Eilutes: 208 465   (pasikartojim?: 2)
+
+Восточной
+   Eilutes: 218 594   (pasikartojim?: 2)
+
+Второй
+   Eilutes: 129 234 252 463 695   (pasikartojim?: 5)
+
+Гданьск
+   Eilutes: 370 513   (pasikartojim?: 2)
+
+Гедимин
+   Eilutes: 183 185   (pasikartojim?: 3)
+
+Гедимина
+   Eilutes: 79 125 142 176 236 390 423 438 474 482 483   (pasikartojim?: 11)
+
+Герб
+   Eilutes: 80 81   (pasikartojim?: 2)
+
+Германии
+   Eilutes: 220 229   (pasikartojim?: 2)
+
+Германия
+   Eilutes: 243 518 560   (pasikartojim?: 3)
+
+Главная
+   Eilutes: 472 608   (pasikartojim?: 2)
+
+Глаубица
+   Eilutes: 465   (pasikartojim?: 2)
+
+Год
+   Eilutes: 164 259   (pasikartojim?: 2)
+
+Город
+   Eilutes: 179 183 211 282   (pasikartojim?: 4)
+
+Города
+   Eilutes: 690 715 719 720   (pasikartojim?: 4)
+
+Господня
+   Eilutes: 208 465   (pasikartojim?: 2)
+
+Государственный
+   Eilutes: 439 451   (pasikartojim?: 2)
+
+Гражданский
+   Eilutes: 243   (pasikartojim?: 2)
+
+Греция
+   Eilutes: 540 541   (pasikartojim?: 2)
+
+Гродно
+   Eilutes: 376 633   (pasikartojim?: 2)
+
+Гундулич
+   Eilutes: 196 593   (pasikartojim?: 2)
+
+Дата
+   Eilutes: 568 569 573 574 582 583 584 585 586 587 589 599 600 601 606 613 616 617 620 622 624 626 627 633 634 636 644 645 646 647 648 649 650 651 652 653 654 655 656 657 659 660 690   (pasikartojim?: 43)
+
+Дворец
+   Eilutes: 409 654   (pasikartojim?: 2)
+
+Действует
+   Eilutes: 380 427   (pasikartojim?: 2)
+
+До
+   Eilutes: 196 463   (pasikartojim?: 2)
+
+Дом-музей
+   Eilutes: 438 443   (pasikartojim?: 2)
+
+Е
+   Eilutes: 370 576   (pasikartojim?: 4)
+
+Европе
+   Eilutes: 363 579 693   (pasikartojim?: 3)
+
+Европы
+   Eilutes: 472 717   (pasikartojim?: 2)
+
+Его
+   Eilutes: 129 472   (pasikartojim?: 2)
+
+Ефрона
+   Eilutes: 570 571 587 692   (pasikartojim?: 4)
+
+Жирмунай
+   Eilutes: 311 628   (pasikartojim?: 2)
+
+Замковая
+   Eilutes: 474 478   (pasikartojim?: 2)
+
+Замковой
+   Eilutes: 390 476 478   (pasikartojim?: 3)
+
+Зуокас
+   Eilutes: 331 334 638   (pasikartojim?: 3)
+
+И
+   Eilutes: 249 465 587   (pasikartojim?: 4)
+
+Ивана
+   Eilutes: 194 579 693   (pasikartojim?: 3)
+
+Издательство
+   Eilutes: 579 693   (pasikartojim?: 2)
+
+Иоаннов
+   Eilutes: 465 472   (pasikartojim?: 2)
+
+История
+   Eilutes: 14 42 88 172 173 628   (pasikartojim?: 6)
+
+Источник
+   Eilutes: 171 601   (pasikartojim?: 2)
+
+Италия
+   Eilutes: 531 538 539   (pasikartojim?: 3)
+
+Йонаса
+   Eilutes: 423 438   (pasikartojim?: 2)
+
+К
+   Eilutes: 205 352 359 361 465 593 594   (pasikartojim?: 9)
+
+Казахстан
+   Eilutes: 501 502   (pasikartojim?: 2)
+
+Казимира
+   Eilutes: 465   (pasikartojim?: 2)
+
+Калининград
+   Eilutes: 370 521   (pasikartojim?: 2)
+
+Каунас
+   Eilutes: 229 245 370   (pasikartojim?: 3)
+
+Кафедральный
+   Eilutes: 491 492   (pasikartojim?: 2)
+
+Китай
+   Eilutes: 514 558   (pasikartojim?: 2)
+
+Кладбище
+   Eilutes: 485 486   (pasikartojim?: 2)
+
+Клайпеда
+   Eilutes: 370   (pasikartojim?: 2)
+
+Климат
+   Eilutes: 155 156 163 583   (pasikartojim?: 4)
+
+Коммунальная
+   Eilutes: 22 394   (pasikartojim?: 2)
+
+Красная
+   Eilutes: 222 224 234   (pasikartojim?: 3)
+
+Красной
+   Eilutes: 224 243   (pasikartojim?: 2)
+
+Культура
+   Eilutes: 27 431   (pasikartojim?: 2)
+
+Лаздинайский
+   Eilutes: 412 655   (pasikartojim?: 2)
+
+Лида
+   Eilutes: 370 376 634   (pasikartojim?: 3)
+
+Лимбаха
+   Eilutes: 579 693   (pasikartojim?: 2)
+
+Литва
+   Eilutes: 84 112 220 224 236 245 602 608 621 623   (pasikartojim?: 10)
+
+Литве
+   Eilutes: 224 229 233 234 465 600   (pasikartojim?: 7)
+
+Литву
+   Eilutes: 220 370   (pasikartojim?: 2)
+
+Литвы
+   Eilutes: 70 119 121 149 213 220 222 224 229 234 236 245 254 297 340 425 429 435 438 444 449 450 451 572 615 690 713 715   (pasikartojim?: 41)
+
+Литвы»
+   Eilutes: 425 712 714   (pasikartojim?: 3)
+
+Литература
+   Eilutes: 33 691   (pasikartojim?: 2)
+
+Литовские
+   Eilutes: 299 584   (pasikartojim?: 2)
+
+Литовский
+   Eilutes: 437 645   (pasikartojim?: 2)
+
+Литовского
+   Eilutes: 125 185 190 254   (pasikartojim?: 5)
+
+Литовской
+   Eilutes: 127 205 224 234 236 243 254 295 403 463 569   (pasikartojim?: 12)
+
+Литовском
+   Eilutes: 243 423   (pasikartojim?: 2)
+
+Логотип
+   Eilutes: 74 115 116   (pasikartojim?: 3)
+
+М
+   Eilutes: 576 578 603 694 695   (pasikartojim?: 6)
+
+Марии
+   Eilutes: 579 693   (pasikartojim?: 2)
+
+Матери
+   Eilutes: 209 465 478   (pasikartojim?: 3)
+
+Медиафайлы
+   Eilutes: 115 699   (pasikartojim?: 2)
+
+Международные
+   Eilutes: 30 493   (pasikartojim?: 2)
+
+Минск
+   Eilutes: 370 532   (pasikartojim?: 2)
+
+Музеи
+   Eilutes: 432 441   (pasikartojim?: 2)
+
+Музей
+   Eilutes: 434 435 437 440 441   (pasikartojim?: 10)
+
+Н
+   Eilutes: 363   (pasikartojim?: 2)
+
+На
+   Eilutes: 125 179 183 213 222 229 252 412 474 476 478   (pasikartojim?: 12)
+
+Население
+   Eilutes: 16 96 97 256 257 292   (pasikartojim?: 6)
+
+Науяместис
+   Eilutes: 243 316 384   (pasikartojim?: 3)
+
+Национальная
+   Eilutes: 437 444   (pasikartojim?: 3)
+
+Национальный
+   Eilutes: 405 406 438 449 450   (pasikartojim?: 5)
+
+Начало
+   Eilutes: 10 247   (pasikartojim?: 2)
+
+Николая
+   Eilutes: 231 465   (pasikartojim?: 4)
+
+Новая
+   Eilutes: 589 650   (pasikartojim?: 2)
+
+Новый
+   Eilutes: 316 412 438   (pasikartojim?: 3)
+
+Нярис
+   Eilutes: 121 148 149 181 392   (pasikartojim?: 5)
+
+Образование
+   Eilutes: 26 417   (pasikartojim?: 2)
+
+Однако
+   Eilutes: 213 224 229 384   (pasikartojim?: 4)
+
+Октября»
+   Eilutes: 363 625   (pasikartojim?: 2)
+
+Он
+   Eilutes: 181 295 352   (pasikartojim?: 3)
+
+Основная
+   Eilutes: 257 342 432 460   (pasikartojim?: 4)
+
+Острая
+   Eilutes: 79 209   (pasikartojim?: 2)
+
+Остробрамской
+   Eilutes: 209 478   (pasikartojim?: 2)
+
+Паксас
+   Eilutes: 329 330   (pasikartojim?: 2)
+
+Пер
+   Eilutes: 579 593 693   (pasikartojim?: 3)
+
+Перед
+   Eilutes: 218 234   (pasikartojim?: 2)
+
+Перейти
+   Eilutes: 703 712 714 716 718   (pasikartojim?: 6)
+
+Пилайте
+   Eilutes: 319 632   (pasikartojim?: 2)
+
+Пилес
+   Eilutes: 79 472 478   (pasikartojim?: 3)
+
+Площадь
+   Eilutes: 93 151   (pasikartojim?: 2)
+
+По
+   Eilutes: 181 183 284 286 288 638   (pasikartojim?: 6)
+
+Польша
+   Eilutes: 224 510 512 513 524 525 527 555   (pasikartojim?: 8)
+
+Польше
+   Eilutes: 224 229   (pasikartojim?: 2)
+
+Польши
+   Eilutes: 127 190 344 690   (pasikartojim?: 4)
+
+После
+   Eilutes: 127 144 183 198 200 211 213 222 252 386   (pasikartojim?: 10)
+
+Посполитой
+   Eilutes: 125 127 198 200   (pasikartojim?: 4)
+
+Постоянное
+   Eilutes: 123 278   (pasikartojim?: 2)
+
+Править
+   Eilutes: 40 41   (pasikartojim?: 2)
+
+Президентский
+   Eilutes: 480 488 489   (pasikartojim?: 3)
+
+Прибалтики
+   Eilutes: 119 123 630   (pasikartojim?: 3)
+
+Примечания
+   Eilutes: 32 564   (pasikartojim?: 2)
+
+Путеводитель
+   Eilutes: 116 631 701   (pasikartojim?: 3)
+
+Пушкина
+   Eilutes: 442   (pasikartojim?: 2)
+
+Радзивиллов
+   Eilutes: 437 440   (pasikartojim?: 2)
+
+Расу
+   Eilutes: 200 480 485 486   (pasikartojim?: 4)
+
+Ратушной
+   Eilutes: 415 478   (pasikartojim?: 2)
+
+Ремигиюс
+   Eilutes: 297 335   (pasikartojim?: 2)
+
+Республики
+   Eilutes: 127 222 226 236 295 569   (pasikartojim?: 6)
+
+Речи
+   Eilutes: 125 127 198 200   (pasikartojim?: 4)
+
+Рига
+   Eilutes: 370 544   (pasikartojim?: 2)
+
+Рога
+   Eilutes: 181 183   (pasikartojim?: 2)
+
+Роландас
+   Eilutes: 329 330   (pasikartojim?: 2)
+
+России
+   Eilutes: 127 344 496 562   (pasikartojim?: 4)
+
+Российской
+   Eilutes: 200 205   (pasikartojim?: 2)
+
+Россия
+   Eilutes: 521 533 534 546   (pasikartojim?: 4)
+
+Русские
+   Eilutes: 576 589   (pasikartojim?: 2)
+
+С
+   Eilutes: 127 297 382 384 388 390 396 442 476 496 577 578 581 588 590 591 592 593 595 596 597 603 608 621 623 631 722   (pasikartojim?: 30)
+
+СПб
+   Eilutes: 570 571 579 692 693   (pasikartojim?: 5)
+
+ССР
+   Eilutes: 127 243 254   (pasikartojim?: 3)
+
+СССР
+   Eilutes: 234 236 243 254   (pasikartojim?: 5)
+
+США
+   Eilutes: 529 557   (pasikartojim?: 2)
+
+Святого
+   Eilutes: 181 183 231 465 478   (pasikartojim?: 14)
+
+Святой
+   Eilutes: 79 462 465   (pasikartojim?: 7)
+
+Святых
+   Eilutes: 465 472 491 492   (pasikartojim?: 6)
+
+Синочкина
+   Eilutes: 621 623   (pasikartojim?: 2)
+
+Совет
+   Eilutes: 254 295   (pasikartojim?: 2)
+
+Совета
+   Eilutes: 295   (pasikartojim?: 2)
+
+Советской
+   Eilutes: 222 224 236   (pasikartojim?: 5)
+
+Составитель
+   Eilutes: 621 623   (pasikartojim?: 2)
+
+Социалистической
+   Eilutes: 222 236   (pasikartojim?: 2)
+
+Союзом
+   Eilutes: 234 494   (pasikartojim?: 2)
+
+Спорт
+   Eilutes: 24 401   (pasikartojim?: 2)
+
+Среднегодовая
+   Eilutes: 160 161 162   (pasikartojim?: 3)
+
+Средний
+   Eilutes: 166 168   (pasikartojim?: 2)
+
+Ссылки
+   Eilutes: 34 696   (pasikartojim?: 2)
+
+Станислава
+   Eilutes: 465 478 491 492   (pasikartojim?: 4)
+
+Старого
+   Eilutes: 190 472 474   (pasikartojim?: 3)
+
+Старый
+   Eilutes: 438 467 468 472   (pasikartojim?: 4)
+
+Статистика
+   Eilutes: 276 277   (pasikartojim?: 2)
+
+Статья
+   Eilutes: 37 658   (pasikartojim?: 2)
+
+Столица
+   Eilutes: 70 346   (pasikartojim?: 2)
+
+Т
+   Eilutes: 575 593   (pasikartojim?: 2)
+
+Текст
+   Eilutes: 46 722   (pasikartojim?: 2)
+
+Томас
+   Eilutes: 579 693   (pasikartojim?: 2)
+
+Транспорт
+   Eilutes: 21 367 382   (pasikartojim?: 3)
+
+Трёх
+   Eilutes: 476   (pasikartojim?: 2)
+
+У
+   Eilutes: 69 478   (pasikartojim?: 2)
+
+Украина
+   Eilutes: 503 505 515 516 522 526 530 556   (pasikartojim?: 8)
+
+Украины
+   Eilutes: 710 719   (pasikartojim?: 2)
+
+Ф
+   Eilutes: 587 593   (pasikartojim?: 2)
+
+Физико-географическая
+   Eilutes: 12 146   (pasikartojim?: 2)
+
+Флагвд
+   Eilutes: 80 81   (pasikartojim?: 2)
+
+Франциска
+   Eilutes: 427 465 593   (pasikartojim?: 3)
+
+Франция
+   Eilutes: 511 549   (pasikartojim?: 2)
+
+Центр
+   Eilutes: 117 118 384   (pasikartojim?: 3)
+
+Церковь
+   Eilutes: 465 503   (pasikartojim?: 3)
+
+Чепайтите
+   Eilutes: 579 693   (pasikartojim?: 2)
+
+Численность
+   Eilutes: 258 610   (pasikartojim?: 2)
+
+Шимашюс
+   Eilutes: 297 335 632   (pasikartojim?: 3)
+
+Экономика
+   Eilutes: 19 337   (pasikartojim?: 2)
+
+Энциклопедический
+   Eilutes: 570 587 692   (pasikartojim?: 3)
+
+Этимология
+   Eilutes: 11 133   (pasikartojim?: 2)
+
+ЮНЕСКО
+   Eilutes: 129 469 470   (pasikartojim?: 3)
+
+а
+   Eilutes: 125 144 151 183 196 205 220 236 245 252 363 382 386 415 427 494   (pasikartojim?: 17)
+
+августа
+   Eilutes: 196 218 236 382 513 543 567 582 587 589 620 622 624 626 627 628 629 630 641 654 659   (pasikartojim?: 27)
+
+автобусами»
+   Eilutes: 638 639   (pasikartojim?: 2)
+
+автобусов»
+   Eilutes: 384 639   (pasikartojim?: 2)
+
+администрации
+   Eilutes: 236 295   (pasikartojim?: 2)
+
+академия
+   Eilutes: 423   (pasikartojim?: 3)
+
+акт
+   Eilutes: 220 254   (pasikartojim?: 2)
+
+англ
+   Eilutes: 567 572 573 574 582 618 640 644 646 647 648 649 651 652 653 660   (pasikartojim?: 16)
+
+ансамбль
+   Eilutes: 457 472   (pasikartojim?: 2)
+
+аппаратуры
+   Eilutes: 363 629   (pasikartojim?: 2)
+
+апреля
+   Eilutes: 224 510 517 523 545 556 560 583 584 585 586 607 613 636 653   (pasikartojim?: 15)
+
+армией
+   Eilutes: 243 249   (pasikartojim?: 2)
+
+армии
+   Eilutes: 209 218 224 228 236 243   (pasikartojim?: 6)
+
+армия
+   Eilutes: 222 224 234   (pasikartojim?: 4)
+
+балтийских
+   Eilutes: 463 494   (pasikartojim?: 2)
+
+банков
+   Eilutes: 354   (pasikartojim?: 2)
+
+барокко
+   Eilutes: 129 465 468   (pasikartojim?: 8)
+
+бассейн
+   Eilutes: 412 655   (pasikartojim?: 2)
+
+башне
+   Eilutes: 236 474   (pasikartojim?: 2)
+
+белорусов
+   Eilutes: 231 282   (pasikartojim?: 2)
+
+белорусы
+   Eilutes: 101 123 211 252 284 286 288   (pasikartojim?: 7)
+
+билет
+   Eilutes: 382 634   (pasikartojim?: 3)
+
+бойцов
+   Eilutes: 249   (pasikartojim?: 2)
+
+более
+   Eilutes: 138 179 194 384 399   (pasikartojim?: 6)
+
+большинства
+   Eilutes: 252   (pasikartojim?: 2)
+
+большинство
+   Eilutes: 138 213 425   (pasikartojim?: 3)
+
+брама
+   Eilutes: 79 209   (pasikartojim?: 2)
+
+будет
+   Eilutes: 384 614   (pasikartojim?: 2)
+
+будут
+   Eilutes: 632 657   (pasikartojim?: 2)
+
+бывшей
+   Eilutes: 229 442   (pasikartojim?: 2)
+
+бывшем
+   Eilutes: 423 437   (pasikartojim?: 2)
+
+бывший
+   Eilutes: 297 423 480   (pasikartojim?: 4)
+
+был
+   Eilutes: 129 190 209 211 220 222 224 229 231 234 243 245 249 252 297 299 363 403 409 412 423 465 472   (pasikartojim?: 25)
+
+была
+   Eilutes: 190 218 236 721   (pasikartojim?: 6)
+
+были
+   Eilutes: 209 211 249 254 427 476 586   (pasikartojim?: 10)
+
+было
+   Eilutes: 194 200 211 220 229 231 234 247 254 384 406   (pasikartojim?: 12)
+
+быть
+   Eilutes: 420   (pasikartojim?: 2)
+
+в
+   Eilutes: 4 65 79 82 116 119 121 125 127 129 131 136 138 142 144 149 158 177 181 183 185 190 194 196 198 200 204 205 208 211 213 218 220 222 224 226 229 231 234 236 240 242 243 247 249 252 254 280 295 299 330 342 344 348 363 365 382 384 390 392 399 403 406 409 412 420 423 425 427 437 438 439 440 441 442 463 465 472 474 476 478 480 496 498 570 579 594 602 603 610 614 619 628 632 636 638 641 658 692 693 701 720 721 722   (pasikartojim?: 220)
+
+вв
+   Eilutes: 138 465   (pasikartojim?: 2)
+
+ведут
+   Eilutes: 370 478   (pasikartojim?: 2)
+
+ведётся
+   Eilutes: 392 423 427   (pasikartojim?: 4)
+
+век
+   Eilutes: 89 465   (pasikartojim?: 7)
+
+века
+   Eilutes: 135 142 185 208 380 463 465 472   (pasikartojim?: 9)
+
+веков
+   Eilutes: 125 213   (pasikartojim?: 2)
+
+великий
+   Eilutes: 183 190   (pasikartojim?: 2)
+
+великого
+   Eilutes: 125 190   (pasikartojim?: 2)
+
+версия
+   Eilutes: 67 140 724   (pasikartojim?: 3)
+
+виленских
+   Eilutes: 465 480   (pasikartojim?: 2)
+
+власти
+   Eilutes: 231 243 247 299   (pasikartojim?: 4)
+
+властями
+   Eilutes: 231 245 247 252   (pasikartojim?: 4)
+
+вместимость
+   Eilutes: 406 409   (pasikartojim?: 2)
+
+вместимостью
+   Eilutes: 384 403 409   (pasikartojim?: 4)
+
+вновь
+   Eilutes: 198 205 463   (pasikartojim?: 3)
+
+во
+   Eilutes: 222 229 243 399 437   (pasikartojim?: 5)
+
+водоснабжения
+   Eilutes: 396   (pasikartojim?: 2)
+
+воду
+   Eilutes: 412 645   (pasikartojim?: 2)
+
+войны
+   Eilutes: 129 194 196 215 224 234 249 252 463 695   (pasikartojim?: 10)
+
+войск
+   Eilutes: 236 249   (pasikartojim?: 2)
+
+войска
+   Eilutes: 194 200 209   (pasikartojim?: 3)
+
+волков
+   Eilutes: 183   (pasikartojim?: 2)
+
+восстания
+   Eilutes: 144 200 211 243   (pasikartojim?: 6)
+
+восточнолитовских
+   Eilutes: 140 179 585   (pasikartojim?: 3)
+
+впадении
+   Eilutes: 121 181   (pasikartojim?: 2)
+
+впервые
+   Eilutes: 185 498   (pasikartojim?: 2)
+
+впоследствии
+   Eilutes: 127 427   (pasikartojim?: 2)
+
+времени
+   Eilutes: 142 211   (pasikartojim?: 2)
+
+время
+   Eilutes: 129 205 247 251 363 392 399 403 409 425   (pasikartojim?: 10)
+
+всего
+   Eilutes: 292 638   (pasikartojim?: 2)
+
+всеобщей
+   Eilutes: 284 286 288   (pasikartojim?: 3)
+
+всех
+   Eilutes: 183 342 357 639   (pasikartojim?: 5)
+
+входил
+   Eilutes: 127 196   (pasikartojim?: 2)
+
+высших
+   Eilutes: 280 423   (pasikartojim?: 3)
+
+г
+   Eilutes: 334 335 336 363 586 602 632 636   (pasikartojim?: 9)
+
+газета
+   Eilutes: 213 650   (pasikartojim?: 3)
+
+галерея
+   Eilutes: 437   (pasikartojim?: 2)
+
+гарнизона
+   Eilutes: 198 249   (pasikartojim?: 2)
+
+гг
+   Eilutes: 211 328 329 594   (pasikartojim?: 4)
+
+где
+   Eilutes: 127 179 231 390 441 628   (pasikartojim?: 6)
+
+генерала
+   Eilutes: 224 423   (pasikartojim?: 2)
+
+германскими
+   Eilutes: 247 252   (pasikartojim?: 2)
+
+германской
+   Eilutes: 245 602   (pasikartojim?: 2)
+
+главе
+   Eilutes: 222 243   (pasikartojim?: 2)
+
+главный
+   Eilutes: 125 340   (pasikartojim?: 2)
+
+год
+   Eilutes: 123 127 158 189 228 242 278 280 344 396 425 496   (pasikartojim?: 12)
+
+года
+   Eilutes: 119 123 125 127 142 144 158 176 185 198 205 209 211 218 220 222 224 229 231 234 236 243 247 249 254 282 284 286 288 295 297 299 330 332 333 380 382 384 386 388 390 392 396 406 412 423 465 472 496 568 569 572 573 574 582 583 584 585 586 587 589 599 600 601 602 604 606 610 613 615 616 617 618 620 622 624 626 627 633 634 636 641 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 690 721   (pasikartojim?: 124)
+
+годах
+   Eilutes: 119 190 209 220 224 254 392 440 465 480   (pasikartojim?: 10)
+
+годов
+   Eilutes: 192 229 406   (pasikartojim?: 3)
+
+году
+   Eilutes: 125 127 190 200 204 211 213 229 231 240 247 254 365 384 403 406 409 412 423 435 438 441 465 474 476 498   (pasikartojim?: 43)
+
+годы
+   Eilutes: 183 198 252 427   (pasikartojim?: 4)
+
+гора
+   Eilutes: 474 476   (pasikartojim?: 2)
+
+горе
+   Eilutes: 183 476   (pasikartojim?: 3)
+
+город
+   Eilutes: 119 123 125 136 183 185 190 194 196 198 200 209 211 220 222 224 229 234 236 252 316 463 467 468 472 579 693   (pasikartojim?: 32)
+
+города
+   Eilutes: 121 123 131 138 142 144 151 174 177 179 183 200 211 218 229 231 233 234 243 247 249 252 254 278 295 297 302 340 344 352 359 386 392 399 412 415 472 474 638 639 694 702   (pasikartojim?: 59)
+
+городами
+   Eilutes: 376 562   (pasikartojim?: 2)
+
+городе
+   Eilutes: 129 190 213 220 231 254 280 290 354 380 384 444   (pasikartojim?: 12)
+
+городов
+   Eilutes: 125 131 142 252 494 720   (pasikartojim?: 6)
+
+городом
+   Eilutes: 185 190 295 494   (pasikartojim?: 4)
+
+городские
+   Eilutes: 209 299   (pasikartojim?: 2)
+
+городским
+   Eilutes: 245 384 478   (pasikartojim?: 3)
+
+городского
+   Eilutes: 119 295 302 396 638   (pasikartojim?: 5)
+
+городской
+   Eilutes: 190 295   (pasikartojim?: 2)
+
+городу
+   Eilutes: 192 463   (pasikartojim?: 2)
+
+горой
+   Eilutes: 476   (pasikartojim?: 2)
+
+горы
+   Eilutes: 390 478   (pasikartojim?: 2)
+
+гостей
+   Eilutes: 346 348   (pasikartojim?: 2)
+
+государства
+   Eilutes: 217 254   (pasikartojim?: 2)
+
+государственных
+   Eilutes: 425 427   (pasikartojim?: 2)
+
+готика
+   Eilutes: 465   (pasikartojim?: 3)
+
+границы
+   Eilutes: 121 149   (pasikartojim?: 2)
+
+губернии
+   Eilutes: 205   (pasikartojim?: 2)
+
+дhgЯo
+   Eilutes: 65 82   (pasikartojim?: 2)
+
+данным
+   Eilutes: 282 284 286 288 403   (pasikartojim?: 5)
+
+данных
+   Eilutes: 104 123 288   (pasikartojim?: 3)
+
+два
+   Eilutes: 295 380   (pasikartojim?: 2)
+
+движения
+   Eilutes: 213 231   (pasikartojim?: 2)
+
+дворец
+   Eilutes: 79 480 488 489   (pasikartojim?: 5)
+
+дворце
+   Eilutes: 437 440   (pasikartojim?: 2)
+
+действует
+   Eilutes: 354 415 463   (pasikartojim?: 3)
+
+действуют
+   Eilutes: 350 382   (pasikartojim?: 2)
+
+декабря
+   Eilutes: 222 333 573 584 599 645 649 653 660   (pasikartojim?: 11)
+
+десятков
+   Eilutes: 427 463   (pasikartojim?: 3)
+
+дивизия
+   Eilutes: 218 224 594   (pasikartojim?: 4)
+
+длиной
+   Eilutes: 412 415   (pasikartojim?: 2)
+
+для
+   Eilutes: 181 211 348 412 415 425   (pasikartojim?: 7)
+
+дней
+   Eilutes: 194 382 403 409 412   (pasikartojim?: 6)
+
+дня
+   Eilutes: 194 234   (pasikartojim?: 2)
+
+до
+   Eilutes: 119 121 127 142 144 194 236 249 254 333 376 380 390 399 409 415 427 472   (pasikartojim?: 19)
+
+должен
+   Eilutes: 220 295   (pasikartojim?: 2)
+
+долины
+   Eilutes: 181 474   (pasikartojim?: 2)
+
+домов
+   Eilutes: 444 643   (pasikartojim?: 2)
+
+доп
+   Eilutes: 570 692   (pasikartojim?: 2)
+
+др
+   Eilutes: 350 435   (pasikartojim?: 2)
+
+другие
+   Eilutes: 68 69 103 123 205 288 354 441 443   (pasikartojim?: 9)
+
+другим
+   Eilutes: 194 403   (pasikartojim?: 2)
+
+других
+   Eilutes: 254 282 284 286 292 423 480   (pasikartojim?: 7)
+
+евреев
+   Eilutes: 231 247 252 282   (pasikartojim?: 4)
+
+евреи
+   Eilutes: 252 284   (pasikartojim?: 2)
+
+еврейским
+   Eilutes: 463 658   (pasikartojim?: 2)
+
+еврейской
+   Eilutes: 200 211 247   (pasikartojim?: 3)
+
+евро
+   Eilutes: 382 406   (pasikartojim?: 2)
+
+его
+   Eilutes: 138 181 190 211 222 234 247 302 412 472 632 638   (pasikartojim?: 12)
+
+есть
+   Eilutes: 129 245   (pasikartojim?: 2)
+
+её
+   Eilutes: 200 390 399   (pasikartojim?: 3)
+
+же
+   Eilutes: 142 234 384   (pasikartojim?: 3)
+
+жителей
+   Eilutes: 106 183 194 231 280 282 284 286 288 610   (pasikartojim?: 12)
+
+жительства
+   Eilutes: 278 614   (pasikartojim?: 2)
+
+за
+   Eilutes: 224 229 249 280 344 382 476 636 645   (pasikartojim?: 9)
+
+заведений
+   Eilutes: 280 423   (pasikartojim?: 3)
+
+завод
+   Eilutes: 363 365 624 626 627 629   (pasikartojim?: 9)
+
+заводы
+   Eilutes: 363   (pasikartojim?: 2)
+
+закрыт
+   Eilutes: 211 409   (pasikartojim?: 2)
+
+замка
+   Eilutes: 438 474   (pasikartojim?: 2)
+
+занимает
+   Eilutes: 352 472   (pasikartojim?: 2)
+
+заново
+   Eilutes: 211 465   (pasikartojim?: 2)
+
+заняла
+   Eilutes: 222 224 234   (pasikartojim?: 3)
+
+заняли
+   Eilutes: 200 209 224   (pasikartojim?: 3)
+
+зарегистрировано
+   Eilutes: 278 357   (pasikartojim?: 2)
+
+зданий
+   Eilutes: 399 472   (pasikartojim?: 2)
+
+здания
+   Eilutes: 465 472   (pasikartojim?: 3)
+
+здесь
+   Eilutes: 181 183 190   (pasikartojim?: 3)
+
+значения
+   Eilutes: 68 69   (pasikartojim?: 3)
+
+зрителей
+   Eilutes: 403 409   (pasikartojim?: 3)
+
+и
+   Eilutes: 26 69 88 119 121 125 129 136 138 140 142 144 149 158 171 173 181 183 185 187 190 192 194 196 200 205 209 211 213 215 218 220 222 224 229 231 234 243 249 252 254 280 284 290 292 295 302 340 342 346 348 350 352 354 359 363 370 380 382 384 395 396 409 412 415 417 423 425 427 435 437 438 440 441 443 444 449 463 465 468 472 474 476 478 480 491 492 494 562 570 571 580 583 587 589 615 621 623 628 635 638 650 658 690 692 694 705 709 710 720 724   (pasikartojim?: 217)
+
+из
+   Eilutes: 66 125 140 183 222 231 254 284 286 288 295 344 348 392 399 463 465 472 604 606 617 633 720   (pasikartojim?: 28)
+
+иконой
+   Eilutes: 209 478   (pasikartojim?: 2)
+
+или
+   Eilutes: 123 140 194 278 384 476 638   (pasikartojim?: 7)
+
+имени
+   Eilutes: 363 423 427 444 625   (pasikartojim?: 7)
+
+империи
+   Eilutes: 200 205   (pasikartojim?: 2)
+
+иностранных
+   Eilutes: 234 346 354   (pasikartojim?: 3)
+
+институт
+   Eilutes: 423   (pasikartojim?: 2)
+
+инфраструктура
+   Eilutes: 22 394   (pasikartojim?: 2)
+
+искусства
+   Eilutes: 434 437   (pasikartojim?: 3)
+
+истории
+   Eilutes: 465 474   (pasikartojim?: 2)
+
+исторически
+   Eilutes: 136 302   (pasikartojim?: 2)
+
+источниках
+   Eilutes: 138 142 185 249   (pasikartojim?: 4)
+
+источники
+   Eilutes: 419 420   (pasikartojim?: 2)
+
+их
+   Eilutes: 425 465 638   (pasikartojim?: 3)
+
+июле
+   Eilutes: 158 412   (pasikartojim?: 2)
+
+июля
+   Eilutes: 220 224 247 249 386 388 520 557 586 605 606 642 658   (pasikartojim?: 18)
+
+июня
+   Eilutes: 243 508 522 548 552 558 580 617 643 644 659   (pasikartojim?: 15)
+
+к
+   Eilutes: 177 211 218 229 234 236 249 254 342 478 593 703 712 714 716 718   (pasikartojim?: 19)
+
+как
+   Eilutes: 125 177 183 222 229 363 384 425 438 463   (pasikartojim?: 11)
+
+каток
+   Eilutes: 415 657   (pasikartojim?: 2)
+
+католических
+   Eilutes: 463 465   (pasikartojim?: 2)
+
+километрах
+   Eilutes: 149 247   (pasikartojim?: 2)
+
+кладбище
+   Eilutes: 200 480   (pasikartojim?: 3)
+
+классицизма
+   Eilutes: 129 478   (pasikartojim?: 2)
+
+км
+   Eilutes: 121 396 399 639   (pasikartojim?: 5)
+
+км²
+   Eilutes: 93 151   (pasikartojim?: 2)
+
+княжества
+   Eilutes: 125 185 190   (pasikartojim?: 3)
+
+князь
+   Eilutes: 181 183 190   (pasikartojim?: 4)
+
+князя
+   Eilutes: 125 190   (pasikartojim?: 2)
+
+код
+   Eilutes: 41 108   (pasikartojim?: 2)
+
+комитет
+   Eilutes: 243   (pasikartojim?: 2)
+
+комплекс
+   Eilutes: 412 472   (pasikartojim?: 2)
+
+конца
+   Eilutes: 142 380   (pasikartojim?: 3)
+
+копия
+   Eilutes: 567 580 598 605 607 614 628 629 630 632 635 637 640 642 643 658   (pasikartojim?: 20)
+
+костёл
+   Eilutes: 231 465 472   (pasikartojim?: 14)
+
+которая
+   Eilutes: 183 190   (pasikartojim?: 2)
+
+которого
+   Eilutes: 119 138 245 380 406 437   (pasikartojim?: 6)
+
+котором
+   Eilutes: 390 440   (pasikartojim?: 2)
+
+которые
+   Eilutes: 425 586   (pasikartojim?: 2)
+
+который
+   Eilutes: 140 183 196 220 412   (pasikartojim?: 6)
+
+которых
+   Eilutes: 236 299 302 472   (pasikartojim?: 4)
+
+края
+   Eilutes: 229   (pasikartojim?: 2)
+
+креста
+   Eilutes: 79 476   (pasikartojim?: 2)
+
+крестов
+   Eilutes: 476   (pasikartojim?: 2)
+
+крупнейший
+   Eilutes: 119 123   (pasikartojim?: 2)
+
+крупнейшим
+   Eilutes: 361 403   (pasikartojim?: 2)
+
+крупнейших
+   Eilutes: 125 399   (pasikartojim?: 2)
+
+крупный
+   Eilutes: 363 472   (pasikartojim?: 2)
+
+крупным
+   Eilutes: 190 211 463   (pasikartojim?: 3)
+
+крупных
+   Eilutes: 211 463   (pasikartojim?: 2)
+
+крытой
+   Eilutes: 409   (pasikartojim?: 2)
+
+культурным
+   Eilutes: 190 463   (pasikartojim?: 2)
+
+культуры
+   Eilutes: 140 211 444 465 480   (pasikartojim?: 5)
+
+курганов
+   Eilutes: 140 179 585   (pasikartojim?: 4)
+
+латинском
+   Eilutes: 142 185   (pasikartojim?: 2)
+
+летия
+   Eilutes: 363 625   (pasikartojim?: 2)
+
+летом
+   Eilutes: 95 415   (pasikartojim?: 2)
+
+лит
+   Eilutes: 72 119 136 243 382 572 579 581 598 613 615 616 617 619 640 659   (pasikartojim?: 17)
+
+литовский
+   Eilutes: 181 183 190 200 243 290 628   (pasikartojim?: 7)
+
+литовских
+   Eilutes: 183 185 236 252   (pasikartojim?: 4)
+
+литовского
+   Eilutes: 140 190 213 217 231 693   (pasikartojim?: 6)
+
+литовское
+   Eilutes: 142 243   (pasikartojim?: 2)
+
+литовской
+   Eilutes: 142 213 231 236 480 638   (pasikartojim?: 7)
+
+литовском
+   Eilutes: 136 213 231 427   (pasikartojim?: 6)
+
+литовцев
+   Eilutes: 231 243 252 282   (pasikartojim?: 4)
+
+литовцы
+   Eilutes: 98 123 284 286 288   (pasikartojim?: 5)
+
+лишь
+   Eilutes: 209 211 236   (pasikartojim?: 3)
+
+м
+   Eilutes: 94 243 415   (pasikartojim?: 3)
+
+максимум
+   Eilutes: 158 165 166   (pasikartojim?: 3)
+
+марта
+   Eilutes: 254 299 501 505 526 531 585 613 616 635 636 644 658 690   (pasikartojim?: 17)
+
+маршрутов
+   Eilutes: 380 639   (pasikartojim?: 3)
+
+мая
+   Eilutes: 67 549 550 574 618 652 721   (pasikartojim?: 8)
+
+между
+   Eilutes: 224 234 472   (pasikartojim?: 4)
+
+мелких
+   Eilutes: 211 352   (pasikartojim?: 2)
+
+менее
+   Eilutes: 247 252   (pasikartojim?: 2)
+
+мест
+   Eilutes: 342 346 406   (pasikartojim?: 3)
+
+месте
+   Eilutes: 412 415 465   (pasikartojim?: 3)
+
+место
+   Eilutes: 131 181 614   (pasikartojim?: 3)
+
+метров
+   Eilutes: 412 415   (pasikartojim?: 2)
+
+минимум
+   Eilutes: 168 169   (pasikartojim?: 2)
+
+министр
+   Eilutes: 234 297   (pasikartojim?: 2)
+
+мира
+   Eilutes: 494 576 638   (pasikartojim?: 3)
+
+мировой
+   Eilutes: 129 234 252 463 695   (pasikartojim?: 5)
+
+млн
+   Eilutes: 344 399   (pasikartojim?: 2)
+
+мм
+   Eilutes: 158 170   (pasikartojim?: 2)
+
+многонационального
+   Eilutes: 136 252   (pasikartojim?: 2)
+
+можно
+   Eilutes: 376 382 390   (pasikartojim?: 3)
+
+монастыри
+   Eilutes: 463 465   (pasikartojim?: 2)
+
+монастырь
+   Eilutes: 465   (pasikartojim?: 3)
+
+моря
+   Eilutes: 94 156   (pasikartojim?: 2)
+
+музей
+   Eilutes: 435 437 438 439 442   (pasikartojim?: 6)
+
+музыки
+   Eilutes: 423 440   (pasikartojim?: 2)
+
+мы
+   Eilutes: 196 638   (pasikartojim?: 2)
+
+мэра
+   Eilutes: 295   (pasikartojim?: 2)
+
+мэром
+   Eilutes: 297 299   (pasikartojim?: 2)
+
+н
+   Eilutes: 382 384   (pasikartojim?: 2)
+
+на
+   Eilutes: 115 121 123 142 149 153 176 177 179 183 185 209 213 220 228 231 236 243 245 249 278 280 295 302 352 370 382 390 396 406 415 419 420 423 425 427 465 480 562 567 580 583 586 598 605 607 610 614 628 629 630 632 634 635 637 638 640 642 643 658 690 699   (pasikartojim?: 86)
+
+над
+   Eilutes: 94 224   (pasikartojim?: 2)
+
+название
+   Eilutes: 121 127 138 142 181   (pasikartojim?: 5)
+
+названием
+   Eilutes: 127   (pasikartojim?: 2)
+
+названия
+   Eilutes: 91 138 142 576   (pasikartojim?: 5)
+
+называется
+   Eilutes: 136 149   (pasikartojim?: 2)
+
+население
+   Eilutes: 123 278   (pasikartojim?: 2)
+
+населения
+   Eilutes: 123 140 194 211 231 236 252 254 258 276 277 278 284 286 288 340 569 638   (pasikartojim?: 21)
+
+наследие
+   Eilutes: 470 720   (pasikartojim?: 2)
+
+настоящее
+   Eilutes: 392 425   (pasikartojim?: 2)
+
+насчитывается
+   Eilutes: 423 435   (pasikartojim?: 2)
+
+наук
+   Eilutes: 423 429 444   (pasikartojim?: 3)
+
+наука
+   Eilutes: 26 417   (pasikartojim?: 2)
+
+находится
+   Eilutes: 179 295 374 390 406 444   (pasikartojim?: 6)
+
+национального
+   Eilutes: 213 231   (pasikartojim?: 2)
+
+национальностей
+   Eilutes: 282 284 286   (pasikartojim?: 3)
+
+национальных
+   Eilutes: 211 435   (pasikartojim?: 2)
+
+начала
+   Eilutes: 213 352 427   (pasikartojim?: 3)
+
+начало
+   Eilutes: 208 217 610   (pasikartojim?: 3)
+
+началось
+   Eilutes: 243 406   (pasikartojim?: 2)
+
+начиная
+   Eilutes: 79 472   (pasikartojim?: 2)
+
+не
+   Eilutes: 119 140 211 220 243 247 252 346 380 392 403 409 412 419 632   (pasikartojim?: 16)
+
+независимости
+   Eilutes: 220 254   (pasikartojim?: 2)
+
+ней
+   Eilutes: 392 478   (pasikartojim?: 2)
+
+нем
+   Eilutes: 245 566   (pasikartojim?: 3)
+
+немецкого
+   Eilutes: 220 249   (pasikartojim?: 2)
+
+немецкой
+   Eilutes: 243 247   (pasikartojim?: 2)
+
+нескольких
+   Eilutes: 211 374   (pasikartojim?: 2)
+
+несколько
+   Eilutes: 209 211 423 427 444 463 472   (pasikartojim?: 9)
+
+нет
+   Eilutes: 104 123 288   (pasikartojim?: 3)
+
+них
+   Eilutes: 231 392 423   (pasikartojim?: 3)
+
+но
+   Eilutes: 158 211 220 346 406   (pasikartojim?: 5)
+
+носил
+   Eilutes: 127 435   (pasikartojim?: 2)
+
+ноября
+   Eilutes: 220 236 507 516 569 583 587 599 600 601 617 634 640 648 657   (pasikartojim?: 17)
+
+нём
+   Eilutes: 252   (pasikartojim?: 2)
+
+о
+   Eilutes: 140 220 229 234 249 254 384 463 580 632 635 724   (pasikartojim?: 16)
+
+области
+   Eilutes: 229 234 352   (pasikartojim?: 3)
+
+образом
+   Eilutes: 123 190 465   (pasikartojim?: 3)
+
+обращения
+   Eilutes: 568 569 573 574 582 583 584 585 586 587 589 599 600 601 606 613 616 617 620 622 624 626 627 633 634 636 644 645 646 647 648 649 650 651 652 653 654 655 656 657 659 660 690   (pasikartojim?: 43)
+
+обслуживает
+   Eilutes: 372 399   (pasikartojim?: 2)
+
+общественного
+   Eilutes: 384 386   (pasikartojim?: 2)
+
+община
+   Eilutes: 463 658   (pasikartojim?: 2)
+
+общины
+   Eilutes: 200 247   (pasikartojim?: 2)
+
+одежда
+   Eilutes: 359 361   (pasikartojim?: 2)
+
+один
+   Eilutes: 125 194 380 382 392 427 472   (pasikartojim?: 7)
+
+одной
+   Eilutes: 140 399   (pasikartojim?: 2)
+
+означает
+   Eilutes: 183   (pasikartojim?: 2)
+
+оккупации
+   Eilutes: 245 247 252 447 602   (pasikartojim?: 5)
+
+оккупационными
+   Eilutes: 245 247 252   (pasikartojim?: 3)
+
+оккупирован
+   Eilutes: 220 243   (pasikartojim?: 2)
+
+около
+   Eilutes: 123 243 278 352 396 399 415 423 435   (pasikartojim?: 10)
+
+окрестности
+   Eilutes: 209 218 234   (pasikartojim?: 3)
+
+октября
+   Eilutes: 224 234 236 514 518 529 582 589 604 614 632 634 637 644 645 646 647 648 649 650 651 652 653 654 655 656 657   (pasikartojim?: 39)
+
+он
+   Eilutes: 183 185 435 472   (pasikartojim?: 4)
+
+они
+   Eilutes: 194 209   (pasikartojim?: 2)
+
+операция
+   Eilutes: 249 604   (pasikartojim?: 2)
+
+оригинала
+   Eilutes: 604 606 617 633   (pasikartojim?: 4)
+
+основном
+   Eilutes: 211 280 344   (pasikartojim?: 3)
+
+от
+   Eilutes: 121 138 140 149 198 209 247 249 252 299 390 474 478 567 580 598 605 607 614 628 629 630 632 635 637 640 642 643 658 724   (pasikartojim?: 34)
+
+отличие
+   Eilutes: 252 719   (pasikartojim?: 2)
+
+относится
+   Eilutes: 342 352   (pasikartojim?: 2)
+
+относятся
+   Eilutes: 177 359 361 465   (pasikartojim?: 4)
+
+отношения
+   Eilutes: 30 493 494   (pasikartojim?: 3)
+
+официально
+   Eilutes: 229 236   (pasikartojim?: 2)
+
+памятниками
+   Eilutes: 465 472   (pasikartojim?: 2)
+
+памятниках
+   Eilutes: 142   (pasikartojim?: 2)
+
+памятники
+   Eilutes: 465 480 578   (pasikartojim?: 3)
+
+первая
+   Eilutes: 213   (pasikartojim?: 2)
+
+первой
+   Eilutes: 185 463   (pasikartojim?: 2)
+
+первые
+   Eilutes: 236 295   (pasikartojim?: 2)
+
+первый
+   Eilutes: 440 465 628   (pasikartojim?: 3)
+
+переписи
+   Eilutes: 123 231 282 284 286 288 569   (pasikartojim?: 7)
+
+период
+   Eilutes: 158 245 602   (pasikartojim?: 3)
+
+пехотная
+   Eilutes: 218   (pasikartojim?: 2)
+
+письменности
+   Eilutes: 142   (pasikartojim?: 2)
+
+письменных
+   Eilutes: 138 142 185   (pasikartojim?: 3)
+
+площади
+   Eilutes: 131 151 228 415 478 638   (pasikartojim?: 7)
+
+площадка
+   Eilutes: 409 474   (pasikartojim?: 2)
+
+площадь
+   Eilutes: 352 478   (pasikartojim?: 2)
+
+по
+   Eilutes: 123 127 140 183 194 211 224 247 249 277 278 282 292 295 297 299 328 332 334 335 350 363 372 392 396 403 409 419 472 476 638 658 720 722 724   (pasikartojim?: 40)
+
+под
+   Eilutes: 127 136 220 249   (pasikartojim?: 5)
+
+подножья
+   Eilutes: 390 478   (pasikartojim?: 2)
+
+подписан
+   Eilutes: 220 234   (pasikartojim?: 2)
+
+позднее
+   Eilutes: 190 465   (pasikartojim?: 2)
+
+пол
+   Eilutes: 119 588 590 591 592 595 596 597 605 606 607   (pasikartojim?: 11)
+
+польские
+   Eilutes: 224 249   (pasikartojim?: 2)
+
+польский
+   Eilutes: 190 290   (pasikartojim?: 2)
+
+польского
+   Eilutes: 144 190 211 224 236 252   (pasikartojim?: 8)
+
+польской
+   Eilutes: 211 222 228 249 480   (pasikartojim?: 7)
+
+польском
+   Eilutes: 213 427   (pasikartojim?: 2)
+
+поляки
+   Eilutes: 99 123 252 284 286 288   (pasikartojim?: 6)
+
+поляков
+   Eilutes: 231 282   (pasikartojim?: 2)
+
+помимо
+   Eilutes: 252 427   (pasikartojim?: 2)
+
+помощи
+   Eilutes: 234 382   (pasikartojim?: 2)
+
+после
+   Eilutes: 144 181 211 224 236 249 280 406 695   (pasikartojim?: 9)
+
+последний
+   Eilutes: 425 721   (pasikartojim?: 2)
+
+построенный
+   Eilutes: 365 409 412   (pasikartojim?: 3)
+
+православные
+   Eilutes: 105 211 465   (pasikartojim?: 4)
+
+православных
+   Eilutes: 292 463   (pasikartojim?: 2)
+
+предприятий
+   Eilutes: 254 348 357   (pasikartojim?: 4)
+
+представителей
+   Eilutes: 213 247 284 286   (pasikartojim?: 4)
+
+преподавание
+   Eilutes: 427   (pasikartojim?: 2)
+
+при
+   Eilutes: 121 149 181 229 249 382 396   (pasikartojim?: 7)
+
+прибыл
+   Eilutes: 220 234   (pasikartojim?: 2)
+
+прибыли
+   Eilutes: 196 236   (pasikartojim?: 2)
+
+провозглашено
+   Eilutes: 220 222   (pasikartojim?: 2)
+
+проезд
+   Eilutes: 382 636   (pasikartojim?: 3)
+
+производство
+   Eilutes: 359 361 628   (pasikartojim?: 3)
+
+промышленности
+   Eilutes: 342 359   (pasikartojim?: 2)
+
+проходят
+   Eilutes: 370 496   (pasikartojim?: 2)
+
+пункты
+   Eilutes: 720   (pasikartojim?: 3)
+
+работали
+   Eilutes: 363 628   (pasikartojim?: 2)
+
+работу
+   Eilutes: 423   (pasikartojim?: 3)
+
+развития
+   Eilutes: 190 384 619   (pasikartojim?: 3)
+
+раздела
+   Eilutes: 127 200   (pasikartojim?: 2)
+
+различных
+   Eilutes: 177 439 463 465   (pasikartojim?: 4)
+
+район
+   Eilutes: 218 339   (pasikartojim?: 2)
+
+районе
+   Eilutes: 243 406 638   (pasikartojim?: 3)
+
+расположен
+   Eilutes: 149 153 179   (pasikartojim?: 3)
+
+расположена
+   Eilutes: 474 478   (pasikartojim?: 3)
+
+расположенные
+   Eilutes: 348   (pasikartojim?: 2)
+
+расположенный
+   Eilutes: 352 415   (pasikartojim?: 2)
+
+редактор
+   Eilutes: 621 623   (pasikartojim?: 2)
+
+резиденцией
+   Eilutes: 185 480   (pasikartojim?: 2)
+
+реке
+   Eilutes: 392 643   (pasikartojim?: 2)
+
+реки
+   Eilutes: 121 140 181 474   (pasikartojim?: 5)
+
+реконструкция
+   Eilutes: 465   (pasikartojim?: 2)
+
+ренессанс
+   Eilutes: 465   (pasikartojim?: 2)
+
+розничной
+   Eilutes: 340 348   (pasikartojim?: 2)
+
+рококо
+   Eilutes: 465   (pasikartojim?: 3)
+
+русские
+   Eilutes: 100 123 194 200 252 284 286 288   (pasikartojim?: 8)
+
+русский
+   Eilutes: 290 457   (pasikartojim?: 2)
+
+русских
+   Eilutes: 231 282 720   (pasikartojim?: 3)
+
+русского
+   Eilutes: 198 211   (pasikartojim?: 2)
+
+русской
+   Eilutes: 144 211 218   (pasikartojim?: 4)
+
+русском
+   Eilutes: 213 427   (pasikartojim?: 3)
+
+с
+   Eilutes: 65 79 82 121 125 138 142 149 156 190 198 205 209 218 220 222 224 236 243 247 249 254 277 328 332 333 334 335 336 340 346 363 370 374 376 380 384 386 392 412 415 423 427 435 438 439 463 465 472 474 478 480 494 562 579 581 588 590 591 592 593 595 596 608 621 623 631 638 690 693 694 695 721 724   (pasikartojim?: 94)
+
+сайте
+   Eilutes: 583 635   (pasikartojim?: 2)
+
+самоуправления
+   Eilutes: 119 295 302 614   (pasikartojim?: 6)
+
+самый
+   Eilutes: 363 472   (pasikartojim?: 2)
+
+самых
+   Eilutes: 131 463   (pasikartojim?: 2)
+
+сверл
+   Eilutes: 363 627   (pasikartojim?: 3)
+
+свидетельствуют
+   Eilutes: 177 463   (pasikartojim?: 2)
+
+свободной
+   Eilutes: 66 496   (pasikartojim?: 2)
+
+своего
+   Eilutes: 136 181   (pasikartojim?: 2)
+
+своей
+   Eilutes: 181 295 346   (pasikartojim?: 3)
+
+своим
+   Eilutes: 185 190 196   (pasikartojim?: 3)
+
+связи
+   Eilutes: 220 638   (pasikartojim?: 2)
+
+сейм
+   Eilutes: 213 229   (pasikartojim?: 2)
+
+сентября
+   Eilutes: 234 420 503 504 511 512 515 567 602 606 647 654 656   (pasikartojim?: 13)
+
+сетей
+   Eilutes: 396 399   (pasikartojim?: 2)
+
+сети
+   Eilutes: 350   (pasikartojim?: 2)
+
+сеть
+   Eilutes: 380 388 399   (pasikartojim?: 3)
+
+скоростной
+   Eilutes: 384   (pasikartojim?: 2)
+
+скрыть
+   Eilutes: 9 45   (pasikartojim?: 2)
+
+словарь
+   Eilutes: 570 576 587 692   (pasikartojim?: 4)
+
+см
+   Eilutes: 68 69 419 480 722   (pasikartojim?: 5)
+
+снесён
+   Eilutes: 403 412   (pasikartojim?: 2)
+
+собор
+   Eilutes: 465 491 492   (pasikartojim?: 4)
+
+собором
+   Eilutes: 465 478   (pasikartojim?: 2)
+
+советская
+   Eilutes: 234   (pasikartojim?: 2)
+
+советских
+   Eilutes: 249   (pasikartojim?: 2)
+
+советское
+   Eilutes: 222 363 403   (pasikartojim?: 3)
+
+солдат
+   Eilutes: 209 243   (pasikartojim?: 2)
+
+состав
+   Eilutes: 119 123 127 196 200 252 437   (pasikartojim?: 8)
+
+составе
+   Eilutes: 198 226   (pasikartojim?: 2)
+
+составляет
+   Eilutes: 340 639   (pasikartojim?: 3)
+
+спальных
+   Eilutes: 254 348   (pasikartojim?: 2)
+
+специальности
+   Eilutes: 425   (pasikartojim?: 2)
+
+спорта
+   Eilutes: 409 414 654   (pasikartojim?: 3)
+
+спустя
+   Eilutes: 183 209   (pasikartojim?: 2)
+
+среди
+   Eilutes: 282 423   (pasikartojim?: 2)
+
+средней
+   Eilutes: 427   (pasikartojim?: 2)
+
+среднем
+   Eilutes: 158 280   (pasikartojim?: 2)
+
+средних
+   Eilutes: 425 427   (pasikartojim?: 2)
+
+стадион
+   Eilutes: 405 406   (pasikartojim?: 2)
+
+стадиона
+   Eilutes: 406 650   (pasikartojim?: 3)
+
+стадионом
+   Eilutes: 403   (pasikartojim?: 2)
+
+стал
+   Eilutes: 127 185 211 236 245 299   (pasikartojim?: 7)
+
+стала
+   Eilutes: 190 200 205 213 384   (pasikartojim?: 7)
+
+станков
+   Eilutes: 363 626   (pasikartojim?: 2)
+
+станция
+   Eilutes: 374   (pasikartojim?: 2)
+
+статья
+   Eilutes: 257 432 460   (pasikartojim?: 3)
+
+стиле
+   Eilutes: 465 478 480   (pasikartojim?: 3)
+
+столица
+   Eilutes: 119 125 229   (pasikartojim?: 3)
+
+столицей
+   Eilutes: 127 183 185 220 224 236 245   (pasikartojim?: 7)
+
+столицы
+   Eilutes: 340 435 713   (pasikartojim?: 3)
+
+сторона
+   Eilutes: 234   (pasikartojim?: 2)
+
+странах
+   Eilutes: 412 463   (pasikartojim?: 2)
+
+страны
+   Eilutes: 121 123 278 340 357   (pasikartojim?: 6)
+
+строительство
+   Eilutes: 406   (pasikartojim?: 2)
+
+студентов
+   Eilutes: 423   (pasikartojim?: 4)
+
+суточный
+   Eilutes: 166 168   (pasikartojim?: 2)
+
+существуют
+   Eilutes: 69 138   (pasikartojim?: 2)
+
+т
+   Eilutes: 142 382 384 570 692   (pasikartojim?: 7)
+
+так
+   Eilutes: 220 425   (pasikartojim?: 3)
+
+также
+   Eilutes: 68 198 205 209 224 249 252 290 359 363 382 423 427 429 468 494   (pasikartojim?: 17)
+
+театр
+   Eilutes: 440 449 450 451 452 453 454   (pasikartojim?: 7)
+
+театра
+   Eilutes: 423 440   (pasikartojim?: 2)
+
+текстиль
+   Eilutes: 359 361   (pasikartojim?: 2)
+
+температура
+   Eilutes: 160 167   (pasikartojim?: 2)
+
+теперь
+   Eilutes: 196 365   (pasikartojim?: 2)
+
+теплоснабжения
+   Eilutes: 399   (pasikartojim?: 2)
+
+территории
+   Eilutes: 151 153 177 179 213 229 243 245 302 586   (pasikartojim?: 11)
+
+техники
+   Eilutes: 350 365   (pasikartojim?: 2)
+
+типа
+   Eilutes: 392 423   (pasikartojim?: 2)
+
+того
+   Eilutes: 140 142 211 222 234 427   (pasikartojim?: 6)
+
+только
+   Eilutes: 340 346   (pasikartojim?: 2)
+
+топливной
+   Eilutes: 363 629   (pasikartojim?: 2)
+
+торговли
+   Eilutes: 340 348 352   (pasikartojim?: 3)
+
+трамвай
+   Eilutes: 380 384   (pasikartojim?: 3)
+
+транспорта
+   Eilutes: 384 386 638 639   (pasikartojim?: 4)
+
+транспорте
+   Eilutes: 382 636   (pasikartojim?: 2)
+
+трети
+   Eilutes: 121 194   (pasikartojim?: 2)
+
+третьего
+   Eilutes: 127 200   (pasikartojim?: 2)
+
+три
+   Eilutes: 194 476   (pasikartojim?: 2)
+
+троллейбусных
+   Eilutes: 380   (pasikartojim?: 2)
+
+туризм
+   Eilutes: 344 642   (pasikartojim?: 2)
+
+туристов
+   Eilutes: 344 348 465   (pasikartojim?: 3)
+
+тыс
+   Eilutes: 243 254 280 352 357 363 423   (pasikartojim?: 9)
+
+тысяч
+   Eilutes: 194 231 249 423   (pasikartojim?: 9)
+
+тысячи
+   Eilutes: 231 628   (pasikartojim?: 3)
+
+у
+   Eilutes: 140 218 229 247 382   (pasikartojim?: 5)
+
+уезда
+   Eilutes: 119 243   (pasikartojim?: 3)
+
+уже
+   Eilutes: 224 243   (pasikartojim?: 3)
+
+указан
+   Eilutes: 403 409 412   (pasikartojim?: 4)
+
+украинцы
+   Eilutes: 102 123 252 284 288   (pasikartojim?: 5)
+
+улиц
+   Eilutes: 386 638   (pasikartojim?: 2)
+
+улица
+   Eilutes: 79 243 478   (pasikartojim?: 3)
+
+улицы
+   Eilutes: 472 478   (pasikartojim?: 2)
+
+университет
+   Eilutes: 209 211 247 422 423   (pasikartojim?: 7)
+
+университета
+   Eilutes: 243 441 444 472   (pasikartojim?: 6)
+
+упоминается
+   Eilutes: 125 185   (pasikartojim?: 2)
+
+усилилась
+   Eilutes: 200 252   (pasikartojim?: 2)
+
+учебных
+   Eilutes: 280 423   (pasikartojim?: 3)
+
+фармацевтическая
+   Eilutes: 359 361   (pasikartojim?: 2)
+
+февраля
+   Eilutes: 220 222 229 332 333 412 519 524 527 544 551 572 630 633 655   (pasikartojim?: 16)
+
+филиалов
+   Eilutes: 354 437   (pasikartojim?: 2)
+
+форма
+   Eilutes: 138 144   (pasikartojim?: 2)
+
+формы
+   Eilutes: 142   (pasikartojim?: 2)
+
+х
+   Eilutes: 254 406 427   (pasikartojim?: 4)
+
+характера
+   Eilutes: 136 144 211   (pasikartojim?: 3)
+
+характеристика
+   Eilutes: 12 146   (pasikartojim?: 2)
+
+ходе
+   Eilutes: 194 224   (pasikartojim?: 2)
+
+храм
+   Eilutes: 79 465   (pasikartojim?: 2)
+
+храмов
+   Eilutes: 463 465   (pasikartojim?: 2)
+
+храмы
+   Eilutes: 211 463 465   (pasikartojim?: 3)
+
+художественная
+   Eilutes: 423 437   (pasikartojim?: 2)
+
+художественный
+   Eilutes: 423 437   (pasikartojim?: 2)
+
+центр
+   Eilutes: 119 121 129 340 415   (pasikartojim?: 5)
+
+централизованном
+   Eilutes: 399 425   (pasikartojim?: 2)
+
+центрами
+   Eilutes: 346 348   (pasikartojim?: 2)
+
+центре
+   Eilutes: 348 474   (pasikartojim?: 2)
+
+центром
+   Eilutes: 190 200 205 213 463   (pasikartojim?: 6)
+
+церковь
+   Eilutes: 465   (pasikartojim?: 2)
+
+часовней
+   Eilutes: 209 478   (pasikartojim?: 2)
+
+части
+   Eilutes: 224 229 236 252 437   (pasikartojim?: 6)
+
+частных
+   Eilutes: 423 425   (pasikartojim?: 2)
+
+часть
+   Eilutes: 158 194 224   (pasikartojim?: 3)
+
+чел
+   Eilutes: 288   (pasikartojim?: 7)
+
+человек
+   Eilutes: 97 123 254 278   (pasikartojim?: 6)
+
+через
+   Eilutes: 209 211 399   (pasikartojim?: 3)
+
+четверти
+   Eilutes: 185 463   (pasikartojim?: 2)
+
+четверть
+   Eilutes: 357 472   (pasikartojim?: 2)
+
+численность
+   Eilutes: 200 254 340   (pasikartojim?: 3)
+
+что
+   Eilutes: 138 140 156 183 236 384 399 654   (pasikartojim?: 10)
+
+чудотворной
+   Eilutes: 209 478   (pasikartojim?: 2)
+
+ш
+   Eilutes: 65 82   (pasikartojim?: 2)
+
+шаблону
+   Eilutes: 703 712 714 716 718   (pasikartojim?: 5)
+
+школ
+   Eilutes: 427   (pasikartojim?: 3)
+
+школе
+   Eilutes: 427   (pasikartojim?: 2)
+
+шлифовальных
+   Eilutes: 363 626   (pasikartojim?: 2)
+
+экз
+   Eilutes: 581 591 608 695   (pasikartojim?: 4)
+
+экзамены
+   Eilutes: 425   (pasikartojim?: 3)
+
+экономический
+   Eilutes: 121 340   (pasikartojim?: 2)
+
+электротехника
+   Eilutes: 359 361   (pasikartojim?: 2)
+
+энциклопедии
+   Eilutes: 66 709   (pasikartojim?: 2)
+
+энциклопедия
+   Eilutes: 3 571 608   (pasikartojim?: 3)
+
+эпидемии
+   Eilutes: 192 198   (pasikartojim?: 2)
+
+это
+   Eilutes: 123 234 639   (pasikartojim?: 3)
+
+юго-востоке
+   Eilutes: 121 149   (pasikartojim?: 2)
+
+я
+   Eilutes: 218 594   (pasikartojim?: 3)
+
+является
+   Eilutes: 140 156 344 396 399 403 409 412 463   (pasikartojim?: 9)
+
+являются
+   Eilutes: 348 444 465   (pasikartojim?: 3)
+
+языках
+   Eilutes: 142 213 427   (pasikartojim?: 4)
+
+языке
+   Eilutes: 136 185 213 231 427   (pasikartojim?: 6)
+
+языки
+   Eilutes: 200 290   (pasikartojim?: 2)
+
+языковая
+   Eilutes: 200 252   (pasikartojim?: 2)
+
+января
+   Eilutes: 185 222 382 525 568 598 601 615 624 627 633 645 646 649 651 655 657   (pasikartojim?: 20)
+
+–
+   Eilutes: 616 650   (pasikartojim?: 2)
+
+—
+   Eilutes: 66 98 99 100 101 102 103 104 119 123 125 138 140 151 158 160 161 162 190 194 200 205 209 211 213 220 222 224 249 252 254 278 282 284 286 288 292 299 328 329 330 331 332 333 334 335 336 340 342 344 370 374 376 384 396 403 406 409 412 415 423 437 440 463 465 472 480 496 566 570 571 575 576 577 578 579 580 581 588 590 591 592 593 594 595 596 597 600 602 603 608 610 612 614 619 621 623 631 633 638 658 692 693 694 695 702 722 723   (pasikartojim?: 246)
+
+…
+   Eilutes: 513 515 518 519 520 522 523 524 525 526 527 536 543 544 546 550 551 552 557 558 560   (pasikartojim?: 21)
+
+№
+   Eilutes: 470 593 594 603   (pasikartojim?: 4)
+
+−
+   Eilutes: 166 167 168 169   (pasikartojim?: 19)
+

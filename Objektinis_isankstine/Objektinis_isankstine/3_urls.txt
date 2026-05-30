@@ -1,0 +1,38 @@
+=== RASTI URL ADRESAI ===
+
+1. http://osp.stat.gov.lt/web/guest/statistiniu-rodikliu-analize?portletFormName=visualization&hash=7cc71dbd-5bdd-4c5f-86c6-bb2a53bb543d
+2. http://static.pohjoiskarjala.net/jns/ilmastotori/www.joensuu.fi/ystavyyskaupungit.html
+3. http://tbilisi.gov.ge/img/original/2018/6/12/tbilisiinfigures.pdf
+4. http://www.chicagosistercities.com/sister-cities/vilnius-lithuania/
+5. http://www.ivilnius.lt/pazink/apie-vilniu/miestai-partneriai
+6. http://www.sz.gov.cn/en_szgov/govt/cities/friendship/content/post_1312505.html
+7. http://www.tirana.gen.al/sister_cities.php
+8. https://aiccrelombardia.files.wordpress.com/2010/09/lista_aiccre_lombardia.pdf
+9. https://bc-rada.gov.ua/node/1918
+10. https://democracy.edinburgh.gov.uk/documents/s34650/Item%207.8%20-%20Edinburgh%20International%20Framework.pdf
+11. https://en.kaunas.lt/news/kaunas-has-canceled-the-cooperation-with-two-russian-cities-and-will-pass-the-ambulances-to-ukraine
+12. https://english.sec.gov.taipei/cp.aspx?n=2789B64DFDD8B838&s=71DCD83AD107CA5D
+13. https://kvs.gov.spb.ru/en/agreements/
+14. https://lublin.eu/lublin/wspolpraca-miedzynarodowa/miasta-partnerskie-i-zaprzyjaznione/wilno-litwa-miasto-zaprzyjaznione,10806,w.html
+15. https://m.delfi.lt/ru/news/article.php?id=91149133
+16. https://old.kyivcity.gov.ua/files/2018/2/15/Mista-pobratymy.pdf
+17. https://osp-rs.stat.gov.lt/rest_xml/data/S3R167_M3010210/?startPeriod=2017&endPeriod=2017
+18. https://uml.lodz.pl/dla-mieszkancow/o-miescie/wspolpraca-z-zagranica/wilno/
+19. https://vilnius.lt/lt/tarptautinis-bendradarbiavimas/
+20. https://vilnius.lt/lt/tarptautinis-bendradarbiavimas/#tab1
+21. https://visitwroclaw.eu/miasta-partnerskie-wroclawia
+22. https://www.aalborgevents.dk/venskabsbyer/vilnius-litauen/
+23. https://www.demoscope.ru/weekly/ssp/rus_gub_97.php?reg=4
+24. https://www.duisburg.de/rathaus/rathausundpolitik/intbeziehungen/partnerschaften/vilnius.php
+25. https://www.erfurt.de/ef/de/rathaus/sv/partner/109286.html
+26. https://www.gdansk.pl/urzad-miejski/biuro-prezydenta/wilno-litwa,a,1667
+27. https://www.kaunas.lt/apie-kauna/miesto-partneriai/
+28. https://www.klgd.ru/city/pasport_07052021.pdf
+29. https://www.krakow.pl/otwarty_na_swiat/2531,miasto,31,0,otwarty_na_swiat.html
+30. https://www.lvivrada.gov.ua/component/k2/item/2964-vilnius-lytva
+31. https://www.patrasevents.gr/article/303087-i-lista-me-tis-23-adelfopoiimenes-poleis-tis-patras-iparxei-ousia-omos
+32. https://www.stadt-salzburg.at/internet/wirtschaft_umwelt/wirtschaft_gewerbe/staedtepartner_333065/partnerstadt_vilnius_170979.htm
+33. https://www.tallinn.ee/est/valissuhted/VILNIUS
+34. www.hugsi.green
+
+--- Is viso URL: 34 ---
