@@ -1,0 +1,23 @@
+.vs/
+
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+
+
+# Build output
+build/
+dist/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+*.log
+
+.env
+.env.local
+.env.*.local
