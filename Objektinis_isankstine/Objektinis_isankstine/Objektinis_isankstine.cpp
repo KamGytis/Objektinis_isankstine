@@ -136,7 +136,7 @@ void findURLs(const std::string& inputFile, const std::string& outputFile) {
     std::set<std::string> urls;
 
     std::regex urlPattern(
-        R"((https?://[^\s<>"']+|www\.[a-zA-Z0-9\-]+\.[^\s<>"']+|[a-zA-Z0-9\-]+\.(lt|com|org|net|edu|gov|io|eu)/[^\s<>"']*))",
+        R"((https?://[^\s<>"']+|www\.[a-zA-Z0-9\-]+\.[^\s<>"']+|[a-zA-Z0-9\-]+\.(lt|com|org|net|edu|gov|io|eu)/[^\s<>"']*))" inputFile("url_end.txt"),
         std::regex::icase
     );
 
