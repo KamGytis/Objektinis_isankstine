@@ -5,6 +5,7 @@
 #include <sstream>
 #include <map>
 #include <set>
+#include <iomanip>
 
 void crossReference(const std::string& inputFile, const std::string& outputFile) {
     std::ifstream input(inputFile);
@@ -21,9 +22,9 @@ void crossReference(const std::string& inputFile, const std::string& outputFile)
             int charLen = 0;
             for (size_t i = 0; i < clean.size(); ) {
                 unsigned char c = clean[i];
-                if (c < 0x80) i += 1;
-                else if (c < 0xE0) i += 2;
-                else i += 3;
+				if (c < 0x80) i += 1; // ASCII simboliai
+				else if (c < 0xE0) i += 2; // 2 baitu raides lietuviskos kirlica ir t.t
+				else i += 3; 
                 charLen++;
             }
             bool hasLetter = false;
@@ -35,12 +36,25 @@ void crossReference(const std::string& inputFile, const std::string& outputFile)
     input.close();
     std::ofstream output(outputFile);
     output << "=== CROSS-REFERENCE LENTELE ===\n\n";
+    output << std::left << std::setw(25) << "Zodis" << "Eilutes\n";
+    output << std::string(50, '-') << "\n";
     for (const auto& [zodis, eilutes] : crossRef) {
         if (eilutes.size() > 1) {
-            output << zodis << "\n   Eilutes: ";
+            // Tikras simboliu skaicius
+            int len = 0;
+            for (size_t i = 0; i < zodis.size(); ) {
+                unsigned char c = zodis[i];
+				if (c < 0x80) i += 1; // ASCII simboliai
+                else if (c < 0xE0) i += 2; 
+                else i += 3;
+                len++;
+            }
+            int padding = 25 - len;
+            output << zodis << std::string(padding > 0 ? padding : 1, ' ');
             for (int el : eilutes) output << el << " ";
-            output << "  (skirtingu eiluciu: " << eilutes.size() << ")\n\n";
+            output << "\n";
         }
     }
+    
     std::cout << "[2] issaugota -> " << outputFile << "\n";
 }

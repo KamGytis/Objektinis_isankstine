@@ -7,6 +7,7 @@ akademija           2
 aldonas             2
 alyta               2
 alytus              2
+amber               2
 amžiaus             3
 angl                3
 ant                 2
@@ -19,7 +20,7 @@ ar                  2
 arba                2
 archiveorg          3
 archyvuota          6
-arena               3
+arena               4
 arkikatedra         2
 armija              2
 atnaujinkite        2
@@ -133,7 +134,7 @@ interaktyvi         2
 ir                  97
 isbn                3
 istorija            3
-iš                  13
+iš                  14
 išlikusi            2
 jas                 2
 jau                 2
@@ -145,7 +146,7 @@ jos                 3
 juozapo             2
 jų                  4
 kad                 3
-kaimo               3
+kaimo               4
 kaip                9
 kalboje             4
 kalbos              3
@@ -169,7 +170,7 @@ kiti                5
 kitos               3
 kitur               2
 kitų                2
-klimatas            4
+klimatas            5
 km                  3
 konstantinas        2
 konstantino         2
@@ -204,11 +205,11 @@ lenkai              2
 lenkijos            2
 liepa               2
 liepos              3
-lietuva             4
+lietuva             5
 lietuviškoji        2
 lietuvių            4
 lietuvoje           10
-lietuvos            39
+lietuvos            42
 lietuvą             2
 link                2
 liubarto            2
@@ -223,7 +224,7 @@ matomi              2
 mašinų              3
 mergelės            4
 metu                2
-metų                5
+metų                6
 mickevičius         2
 miestas             6
 mieste              8
@@ -279,7 +280,7 @@ panorama            3
 parkas              8
 parke               2
 parko               5
-pasaulio            3
+pasaulio            4
 pasenusi            2
 pasižymi            2
 paslaugų            3
@@ -342,7 +343,7 @@ santakoje           2
 sapiegų             2
 saugomos            2
 sausio              2
-savivaldybė         4
+savivaldybė         5
 savivaldybės        12
 senamiestis         4
 senamiesčio         2
@@ -351,6 +352,7 @@ senoji              4
 senojo              2
 sentikiai           3
 sentikių            2
+siemens             2
 sietinas            2
 simonas             2
 sinagoga            3
@@ -359,7 +361,7 @@ skveras             3
 solaris             2
 sostine             2
 sostinė             4
-sostinės            3
+sostinės            4
 sovietai            3
 sovietų             3
 sparčiai            2
@@ -411,12 +413,12 @@ tiltų               2
 tipo                2
 to                  2
 tokio               2
-transportas         2
+transportas         3
 transporto          3
 trijų               4
 troleibusai         3
 troleibusas         2
-troleibusų          3
+troleibusų          4
 trys                3
 tsr                 4
 turizmo             2
@@ -466,9 +468,9 @@ vilko               2
 vilna               5
 vilnelės            2
 vilnia              8
-vilniaus            110
+vilniaus            112
 vilnios             5
-vilnis              2
+vilnis              4
 vilniui             2
 vilniuje            11
 vilnius             36
@@ -509,9 +511,10 @@ yra                 39
 įtrauktas           3
 Šeškinės            3
 Šiame               2
-Šiaurės             5
+Šiaurės             6
 Šv                  15
 Šventosios          2
+Šviesa              2
 Švč                 7
 šaltiniais          2
 šaltinis            3
@@ -522,6 +525,7 @@ yra                 39
 šios                2
 šlaitais            2
 šv                  2
+Žalgirio            2
 Žemiausia           2
 Žirmūnų             3
 Žvėryno             3
@@ -530,10 +534,5 @@ yra                 39
 žodžiu              2
 žr                  2
 žydų                6
-„amber              2
-„lietuvos           3
-„siemens“           2
-„vilniaus           2
-„Šviesa“            2
 
---- Is viso: 535 ---
+--- Is viso: 534 ---

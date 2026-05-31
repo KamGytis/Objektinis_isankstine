@@ -1,1439 +1,482 @@
 === CROSS-REFERENCE LENTELE ===
 
-adomas
-   Eilutes: 259 283   (skirtingu eiluciu: 2)
-
-aikštė
-   Eilutes: 208 213 215 217 270 271 273 276 278 280 300 302 304   (skirtingu eiluciu: 13)
-
-aikštės
-   Eilutes: 280 283   (skirtingu eiluciu: 2)
-
-akademija
-   Eilutes: 320 321   (skirtingu eiluciu: 2)
-
-alyta
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-alytus
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-amžiaus
-   Eilutes: 76 79   (skirtingu eiluciu: 2)
-
-angl
-   Eilutes: 428 429 430   (skirtingu eiluciu: 3)
-
-ant
-   Eilutes: 289 311   (skirtingu eiluciu: 2)
-
-antavilių
-   Eilutes: 27 32   (skirtingu eiluciu: 2)
-
-apaštalų
-   Eilutes: 393 397   (skirtingu eiluciu: 2)
-
-apgyvendinimo
-   Eilutes: 129 135   (skirtingu eiluciu: 2)
-
-apie
-   Eilutes: 8 76 79 88 389 474   (skirtingu eiluciu: 6)
-
-apskrities
-   Eilutes: 1 373 462   (skirtingu eiluciu: 3)
-
-ar
-   Eilutes: 108 311   (skirtingu eiluciu: 2)
-
-arba
-   Eilutes: 118 311   (skirtingu eiluciu: 2)
-
-archiveorg
-   Eilutes: 484 489 495   (skirtingu eiluciu: 3)
-
-archyvuota
-   Eilutes: 449 468 469 484 489 495   (skirtingu eiluciu: 6)
-
-arkikatedra
-   Eilutes: 275 402   (skirtingu eiluciu: 2)
-
-armija
-   Eilutes: 82 88   (skirtingu eiluciu: 2)
-
-atnaujinkite
-   Eilutes: 221 235   (skirtingu eiluciu: 2)
-
-atnaujinti
-   Eilutes: 220 234   (skirtingu eiluciu: 2)
-
-atsiveria
-   Eilutes: 16 275   (skirtingu eiluciu: 2)
-
-auga
-   Eilutes: 32 128   (skirtingu eiluciu: 2)
-
-aukštosios
-   Eilutes: 326 334   (skirtingu eiluciu: 2)
-
-aukštutinė
-   Eilutes: 265 267 275   (skirtingu eiluciu: 3)
-
-aukščiausia
-   Eilutes: 63 64   (skirtingu eiluciu: 2)
-
-aukščiausias
-   Eilutes: 294 304   (skirtingu eiluciu: 2)
-
-aukščiausių
-   Eilutes: 32 478   (skirtingu eiluciu: 2)
-
-autobusų
-   Eilutes: 190 194 198 200   (skirtingu eiluciu: 4)
-
-aušros
-   Eilutes: 281 283 403   (skirtingu eiluciu: 3)
-
-baltasis
-   Eilutes: 141 156   (skirtingu eiluciu: 2)
-
-baltijos
-   Eilutes: 11 16 112 304 407   (skirtingu eiluciu: 5)
-
-balžio
-   Eilutes: 27 38 39   (skirtingu eiluciu: 3)
-
-based
-   Eilutes: 429 430   (skirtingu eiluciu: 2)
-
-batoro
-   Eilutes: 86 174   (skirtingu eiluciu: 2)
-
-bažnyčia
-   Eilutes: 280 283 387 391 392 393 394 395 396 397 398 399 400 401 410   (skirtingu eiluciu: 15)
-
-bažnyčios
-   Eilutes: 210 280   (skirtingu eiluciu: 2)
-
-bažnyčių
-   Eilutes: 263 389   (skirtingu eiluciu: 2)
-
-be
-   Eilutes: 23 220   (skirtingu eiluciu: 2)
-
-bei
-   Eilutes: 27 79 104 275 283   (skirtingu eiluciu: 5)
-
-belmonto
-   Eilutes: 32 173   (skirtingu eiluciu: 2)
-
-bendriniu
-   Eilutes: 6 76   (skirtingu eiluciu: 2)
-
-bendrinėje
-   Eilutes: 6 76   (skirtingu eiluciu: 2)
-
-bent
-   Eilutes: 220 234   (skirtingu eiluciu: 2)
-
-bernardinų
-   Eilutes: 32 169 263   (skirtingu eiluciu: 3)
-
-bet
-   Eilutes: 82 104 275   (skirtingu eiluciu: 3)
-
-biblioteka
-   Eilutes: 79 372 373 374 375   (skirtingu eiluciu: 5)
-
-bokštas
-   Eilutes: 275 290 292 304   (skirtingu eiluciu: 4)
-
-britannica
-   Eilutes: 428 429 430   (skirtingu eiluciu: 3)
-
-buvo
-   Eilutes: 82 84 86 88 122 124   (skirtingu eiluciu: 6)
-
-bvp
-   Eilutes: 112 120 122   (skirtingu eiluciu: 3)
-
-būna
-   Eilutes: 56 58   (skirtingu eiluciu: 2)
-
-centras
-   Eilutes: 1 84 112 352 354 355 356 360 361 362 367 368   (skirtingu eiluciu: 12)
-
-centre
-   Eilutes: 280 309   (skirtingu eiluciu: 2)
-
-centrinė
-   Eilutes: 16 374 456 458   (skirtingu eiluciu: 4)
-
-centro
-   Eilutes: 11 486   (skirtingu eiluciu: 2)
-
-centrų
-   Eilutes: 283 304   (skirtingu eiluciu: 2)
-
-cerkvė
-   Eilutes: 283 407   (skirtingu eiluciu: 2)
-
-dailės
-   Eilutes: 168 321   (skirtingu eiluciu: 2)
-
-dalis
-   Eilutes: 16 27 82 120 220 234 311   (skirtingu eiluciu: 7)
-
-dangų
-   Eilutes: 410 412 413   (skirtingu eiluciu: 3)
-
-dar
-   Eilutes: 23 283 311   (skirtingu eiluciu: 3)
-
-darbo
-   Eilutes: 354 356   (skirtingu eiluciu: 2)
-
-darbuotojų
-   Eilutes: 352 360   (skirtingu eiluciu: 2)
-
-daug
-   Eilutes: 34 112   (skirtingu eiluciu: 2)
-
-daugiau
-   Eilutes: 118 120 389 410   (skirtingu eiluciu: 4)
-
-daugiausia
-   Eilutes: 16 32   (skirtingu eiluciu: 2)
-
-departamentas
-   Eilutes: 445 461 462 463   (skirtingu eiluciu: 4)
-
-didysis
-   Eilutes: 77 79   (skirtingu eiluciu: 2)
-
-didžiausias
-   Eilutes: 190 419   (skirtingu eiluciu: 2)
-
-didžiausių
-   Eilutes: 304 407   (skirtingu eiluciu: 2)
-
-dievo
-   Eilutes: 391 407 410 412 413   (skirtingu eiluciu: 5)
-
-dirbo
-   Eilutes: 114 259   (skirtingu eiluciu: 2)
-
-du
-   Eilutes: 104 120   (skirtingu eiluciu: 2)
-
-duomenys
-   Eilutes: 60 69 455 456 458 461   (skirtingu eiluciu: 6)
-
-dvasios
-   Eilutes: 283 396 410   (skirtingu eiluciu: 3)
-
-dėl
-   Eilutes: 16 112 283   (skirtingu eiluciu: 3)
-
-edition
-   Eilutes: 428 429 430 466   (skirtingu eiluciu: 4)
-
-ekonomika
-   Eilutes: 93 107   (skirtingu eiluciu: 2)
-
-enciklopedija
-   Eilutes: 442 443 457 459 460   (skirtingu eiluciu: 5)
-
-enciklopedijų
-   Eilutes: 435 440 442 443 457 459 460   (skirtingu eiluciu: 7)
-
-encyclopedia
-   Eilutes: 429 430   (skirtingu eiluciu: 2)
-
-erdvė
-   Eilutes: 275 280 283   (skirtingu eiluciu: 3)
-
-eur
-   Eilutes: 120 124   (skirtingu eiluciu: 2)
-
-europoje
-   Eilutes: 79 283   (skirtingu eiluciu: 2)
-
-europos
-   Eilutes: 11 97 217 300 302 304 329 382 421   (skirtingu eiluciu: 9)
-
-evangelikai
-   Eilutes: 250 251   (skirtingu eiluciu: 2)
-
-ežeras
-   Eilutes: 27 38 39   (skirtingu eiluciu: 3)
-
-ežerų
-   Eilutes: 27 104   (skirtingu eiluciu: 2)
-
-forma
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-formos
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-gariūnų
-   Eilutes: 20 149   (skirtingu eiluciu: 2)
-
-gatves
-   Eilutes: 192 196 450   (skirtingu eiluciu: 3)
-
-gatvė
-   Eilutes: 207 216 283   (skirtingu eiluciu: 3)
-
-gatvės
-   Eilutes: 174 177 283   (skirtingu eiluciu: 3)
-
-gedimino
-   Eilutes: 79 269 275 322   (skirtingu eiluciu: 4)
-
-geležinio
-   Eilutes: 79 155   (skirtingu eiluciu: 2)
-
-geležinkelio
-   Eilutes: 91 175 198 358   (skirtingu eiluciu: 4)
-
-greitieji
-   Eilutes: 190 194   (skirtingu eiluciu: 2)
-
-gyvenamosios
-   Eilutes: 456 458 461 462   (skirtingu eiluciu: 4)
-
-gyventojai
-   Eilutes: 132 219 311 434 462 463   (skirtingu eiluciu: 6)
-
-gyventojui
-   Eilutes: 112 120 122 124   (skirtingu eiluciu: 4)
-
-gyventojų
-   Eilutes: 82 88 222 236 434 455 456 458 461 463 464   (skirtingu eiluciu: 11)
-
-iki
-   Eilutes: 79 84 196 419   (skirtingu eiluciu: 4)
-
-informacijos
-   Eilutes: 220 234   (skirtingu eiluciu: 2)
-
-informaciją
-   Eilutes: 221 235   (skirtingu eiluciu: 2)
-
-institutas
-   Eilutes: 435 440 441 442 443 459   (skirtingu eiluciu: 6)
-
-intakas
-   Eilutes: 16 23   (skirtingu eiluciu: 2)
-
-interaktyvi
-   Eilutes: 429 430   (skirtingu eiluciu: 2)
-
-ir
-   Eilutes: 1 8 11 16 27 32 34 52 58 76 79 82 84 88 104 109 112 118 120 122 124 128 135 145 181 183 185 190 194 202 207 223 259 263 275 280 283 299 304 309 312 320 328 352 357 358 361 362 363 365 393 397 401 410 423 435 440 442 443 456 459 462 486   (skirtingu eiluciu: 63)
-
-isbn
-   Eilutes: 435 467   (skirtingu eiluciu: 2)
-
-istorija
-   Eilutes: 70 72 275   (skirtingu eiluciu: 3)
-
-iš
-   Eilutes: 8 23 118 124 196 261 382 449 468 469 484 489 495   (skirtingu eiluciu: 13)
-
-išlikusi
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-jas
-   Eilutes: 389 410   (skirtingu eiluciu: 2)
-
-jau
-   Eilutes: 8 451   (skirtingu eiluciu: 2)
-
-jeruzalės
-   Eilutes: 27 354   (skirtingu eiluciu: 2)
-
-jis
-   Eilutes: 91 112   (skirtingu eiluciu: 2)
-
-jo
-   Eilutes: 108 275 309 311   (skirtingu eiluciu: 4)
-
-jono
-   Eilutes: 283 401   (skirtingu eiluciu: 2)
-
-jos
-   Eilutes: 79 280 311   (skirtingu eiluciu: 3)
-
-juozapo
-   Eilutes: 311 330   (skirtingu eiluciu: 2)
-
-jų
-   Eilutes: 88 118 283 462   (skirtingu eiluciu: 4)
-
-kad
-   Eilutes: 8 283   (skirtingu eiluciu: 2)
-
-kaimo
-   Eilutes: 456 458 461   (skirtingu eiluciu: 3)
-
-kaip
-   Eilutes: 8 58 76 79 84 104 275   (skirtingu eiluciu: 7)
-
-kalboje
-   Eilutes: 6 8 76   (skirtingu eiluciu: 3)
-
-kalbos
-   Eilutes: 8 76 441   (skirtingu eiluciu: 3)
-
-kalno
-   Eilutes: 269 289 311   (skirtingu eiluciu: 3)
-
-kalnų
-   Eilutes: 32 289 419   (skirtingu eiluciu: 3)
-
-kapinės
-   Eilutes: 295 297 407   (skirtingu eiluciu: 3)
-
-karo
-   Eilutes: 82 84 91   (skirtingu eiluciu: 3)
-
-kartą
-   Eilutes: 79 82   (skirtingu eiluciu: 2)
-
-katalikai
-   Eilutes: 247 386   (skirtingu eiluciu: 2)
-
-katalikų
-   Eilutes: 283 389   (skirtingu eiluciu: 2)
-
-katedra
-   Eilutes: 410 412 413   (skirtingu eiluciu: 3)
-
-katedros
-   Eilutes: 213 214 270 271 273 280   (skirtingu eiluciu: 6)
-
-kaunas
-   Eilutes: 438 439 455   (skirtingu eiluciu: 3)
-
-kazimiero
-   Eilutes: 280 332   (skirtingu eiluciu: 2)
-
-keletas
-   Eilutes: 23 27   (skirtingu eiluciu: 2)
-
-keliai
-   Eilutes: 179 183   (skirtingu eiluciu: 2)
-
-kitas
-   Eilutes: 23 135 145   (skirtingu eiluciu: 3)
-
-kiti
-   Eilutes: 20 126 237 254 299   (skirtingu eiluciu: 5)
-
-kitos
-   Eilutes: 334 408 410   (skirtingu eiluciu: 3)
-
-kitur
-   Eilutes: 27 58   (skirtingu eiluciu: 2)
-
-kitų
-   Eilutes: 79 104   (skirtingu eiluciu: 2)
-
-klimatas
-   Eilutes: 50 52 61 69   (skirtingu eiluciu: 4)
-
-km
-   Eilutes: 11 16   (skirtingu eiluciu: 2)
-
-konstantinas
-   Eilutes: 259 299   (skirtingu eiluciu: 2)
-
-konstantino
-   Eilutes: 209 341   (skirtingu eiluciu: 2)
-
-kopija
-   Eilutes: 449 468 469 484 489 495   (skirtingu eiluciu: 6)
-
-koplyčia
-   Eilutes: 283 403   (skirtingu eiluciu: 2)
-
-kovo
-   Eilutes: 79 95 196   (skirtingu eiluciu: 3)
-
-krepšinio
-   Eilutes: 421 423   (skirtingu eiluciu: 2)
-
-krituliai
-   Eilutes: 60 68   (skirtingu eiluciu: 2)
-
-kryžiai
-   Eilutes: 275 289   (skirtingu eiluciu: 2)
-
-kryžių
-   Eilutes: 284 285 287   (skirtingu eiluciu: 3)
-
-kt
-   Eilutes: 27 32 34 410   (skirtingu eiluciu: 4)
-
-kudirkos
-   Eilutes: 215 309   (skirtingu eiluciu: 2)
-
-kultūra
-   Eilutes: 79 377   (skirtingu eiluciu: 2)
-
-kultūros
-   Eilutes: 79 97 259   (skirtingu eiluciu: 3)
-
-kunigaikštis
-   Eilutes: 77 79   (skirtingu eiluciu: 2)
-
-kur
-   Eilutes: 27 32 441   (skirtingu eiluciu: 3)
-
-kuri
-   Eilutes: 8 76 280   (skirtingu eiluciu: 3)
-
-kurie
-   Eilutes: 95 275   (skirtingu eiluciu: 2)
-
-kurioje
-   Eilutes: 275 283   (skirtingu eiluciu: 2)
-
-kurios
-   Eilutes: 16 79 280   (skirtingu eiluciu: 3)
-
-kursuoja
-   Eilutes: 190 451   (skirtingu eiluciu: 2)
-
-kviečiame
-   Eilutes: 109 221 235   (skirtingu eiluciu: 3)
-
-labai
-   Eilutes: 23 79   (skirtingu eiluciu: 2)
-
-laikotarpio
-   Eilutes: 79 124   (skirtingu eiluciu: 2)
-
-lazdynų
-   Eilutes: 32 151 419   (skirtingu eiluciu: 3)
-
-legenda
-   Eilutes: 79 311   (skirtingu eiluciu: 2)
-
-leidimas
-   Eilutes: 435 440   (skirtingu eiluciu: 2)
-
-leidybos
-   Eilutes: 435 440 442 443 459   (skirtingu eiluciu: 5)
-
-lenkai
-   Eilutes: 86 237   (skirtingu eiluciu: 2)
-
-liepos
-   Eilutes: 194 202 434   (skirtingu eiluciu: 3)
-
-lietuva
-   Eilutes: 84 88 95 426   (skirtingu eiluciu: 4)
-
-lietuviškoji
-   Eilutes: 457 459   (skirtingu eiluciu: 2)
-
-lietuvių
-   Eilutes: 76 426 441 442   (skirtingu eiluciu: 4)
-
-lietuvoje
-   Eilutes: 11 58 79 104 192 280 304 385   (skirtingu eiluciu: 8)
-
-lietuvos
-   Eilutes: 1 8 32 76 79 86 88 91 112 122 126 132 275 280 294 311 320 434 438 445 455 456 458 460 461 463   (skirtingu eiluciu: 26)
-
-lietuvą
-   Eilutes: 88 91   (skirtingu eiluciu: 2)
-
-link
-   Eilutes: 16 283   (skirtingu eiluciu: 2)
-
-liubarto
-   Eilutes: 142 153   (skirtingu eiluciu: 2)
-
-lotynų
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-lygį
-   Eilutes: 122 311   (skirtingu eiluciu: 2)
-
-machine
-   Eilutes: 449 468 469 484 489 495   (skirtingu eiluciu: 6)
-
-marijos
-   Eilutes: 283 399 403   (skirtingu eiluciu: 3)
-
-maršrutai
-   Eilutes: 190 194   (skirtingu eiluciu: 2)
-
-maršrutų
-   Eilutes: 190 194   (skirtingu eiluciu: 2)
-
-matomi
-   Eilutes: 275 309   (skirtingu eiluciu: 2)
-
-mergelės
-   Eilutes: 283 399 403   (skirtingu eiluciu: 3)
-
-metų
-   Eilutes: 82 458 461 463 464   (skirtingu eiluciu: 5)
-
-mickevičius
-   Eilutes: 259 283   (skirtingu eiluciu: 2)
-
-miestas
-   Eilutes: 1 8 23 82 382   (skirtingu eiluciu: 5)
-
-mieste
-   Eilutes: 27 76 79 112 114 118 190 202   (skirtingu eiluciu: 8)
-
-miesto
-   Eilutes: 1 8 13 16 18 23 32 49 76 79 82 100 104 106 110 128 260 275 280 304 374 445 476 483 485   (skirtingu eiluciu: 25)
-
-miestą
-   Eilutes: 6 8 23 82 86 104   (skirtingu eiluciu: 6)
-
-miestų
-   Eilutes: 79 104 434 440   (skirtingu eiluciu: 4)
-
-mikalojaus
-   Eilutes: 341 398   (skirtingu eiluciu: 2)
-
-mikalojus
-   Eilutes: 259 299   (skirtingu eiluciu: 2)
-
-mindaugo
-   Eilutes: 158 202   (skirtingu eiluciu: 2)
-
-miškai
-   Eilutes: 13 32   (skirtingu eiluciu: 2)
-
-mln
-   Eilutes: 116 118   (skirtingu eiluciu: 2)
-
-mlrd
-   Eilutes: 122 124   (skirtingu eiluciu: 2)
-
-mm
-   Eilutes: 52 68   (skirtingu eiluciu: 2)
-
-modelį
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-mokslo
-   Eilutes: 259 435 440 442 443 459   (skirtingu eiluciu: 6)
-
-mokykla
-   Eilutes: 331 341 347 353 357 358 359 363 364 365 366   (skirtingu eiluciu: 11)
-
-mokyklos
-   Eilutes: 314 326 334 338 343 345 346   (skirtingu eiluciu: 7)
-
-mokymo
-   Eilutes: 350 354 356 361 362 367 368   (skirtingu eiluciu: 7)
-
-motinos
-   Eilutes: 403 407 410 412 413   (skirtingu eiluciu: 5)
-
-msur
-   Eilutes: 224 226 228 230   (skirtingu eiluciu: 4)
-
-nacionalinė
-   Eilutes: 341 372   (skirtingu eiluciu: 2)
-
-namų
-   Eilutes: 88 91 211   (skirtingu eiluciu: 3)
-
-naujų
-   Eilutes: 91 196 451   (skirtingu eiluciu: 3)
-
-ne
-   Eilutes: 8 104 275 283   (skirtingu eiluciu: 4)
-
-neries
-   Eilutes: 11 16 18 23 202 275 294 304   (skirtingu eiluciu: 8)
-
-neryje
-   Eilutes: 25 186   (skirtingu eiluciu: 2)
-
-nerį
-   Eilutes: 23 145 147   (skirtingu eiluciu: 3)
-
-nors
-   Eilutes: 82 311   (skirtingu eiluciu: 2)
-
-nuo
-   Eilutes: 1 8 11 60 76 79 84 91 95 202 269 275 280 283 311 407   (skirtingu eiluciu: 16)
-
-nuolatinių
-   Eilutes: 434 464   (skirtingu eiluciu: 2)
-
-nuoroda
-   Eilutes: 444 445 451   (skirtingu eiluciu: 3)
-
-objektai
-   Eilutes: 126 260 438   (skirtingu eiluciu: 3)
-
-of
-   Eilutes: 366 429 467 469   (skirtingu eiluciu: 4)
-
-on
-   Eilutes: 429 430   (skirtingu eiluciu: 2)
-
-onos
-   Eilutes: 263 387 400   (skirtingu eiluciu: 3)
-
-or
-   Eilutes: 428 430   (skirtingu eiluciu: 2)
-
-oro
-   Eilutes: 60 198 477   (skirtingu eiluciu: 3)
-
-ozas
-   Eilutes: 20 36 37   (skirtingu eiluciu: 3)
-
-padaryta
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-pagal
-   Eilutes: 8 76 108 222 275 311   (skirtingu eiluciu: 6)
-
-pagrindinis
-   Eilutes: 32 72 100 139 188 267 273 278 287 292 297 302 307 380   (skirtingu eiluciu: 14)
-
-pakraštyje
-   Eilutes: 27 29   (skirtingu eiluciu: 2)
-
-pakraštys
-   Eilutes: 16 32   (skirtingu eiluciu: 2)
-
-pakraščiais
-   Eilutes: 16 23   (skirtingu eiluciu: 2)
-
-paminklas
-   Eilutes: 284 285 287 289 382   (skirtingu eiluciu: 5)
-
-pamėnkalnis
-   Eilutes: 305 307 309   (skirtingu eiluciu: 3)
-
-panerių
-   Eilutes: 20 32   (skirtingu eiluciu: 2)
-
-panorama
-   Eilutes: 74 89 493   (skirtingu eiluciu: 3)
-
-parkas
-   Eilutes: 32 42 43 44 45   (skirtingu eiluciu: 5)
-
-parke
-   Eilutes: 34 289   (skirtingu eiluciu: 2)
-
-parko
-   Eilutes: 34 152 419   (skirtingu eiluciu: 3)
-
-pasaulio
-   Eilutes: 3 97 382   (skirtingu eiluciu: 3)
-
-pasenusi
-   Eilutes: 220 234   (skirtingu eiluciu: 2)
-
-pasižymi
-   Eilutes: 112 269   (skirtingu eiluciu: 2)
-
-paslaugų
-   Eilutes: 358 359 360   (skirtingu eiluciu: 3)
-
-pastatai
-   Eilutes: 13 304   (skirtingu eiluciu: 2)
-
-pastatyta
-   Eilutes: 93 407   (skirtingu eiluciu: 2)
-
-pastatų
-   Eilutes: 382 478   (skirtingu eiluciu: 2)
-
-pat
-   Eilutes: 6 8 16 79 275 423   (skirtingu eiluciu: 6)
-
-patikimais
-   Eilutes: 221 235   (skirtingu eiluciu: 2)
-
-pats
-   Eilutes: 8 79   (skirtingu eiluciu: 2)
-
-patį
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-pavadinimas
-   Eilutes: 76 311   (skirtingu eiluciu: 2)
-
-paveldo
-   Eilutes: 3 97 382   (skirtingu eiluciu: 3)
-
-pavilnių
-   Eilutes: 32 34   (skirtingu eiluciu: 2)
-
-paviršius
-   Eilutes: 14 16 18   (skirtingu eiluciu: 3)
-
-per
-   Eilutes: 32 88 139 145 147 165   (skirtingu eiluciu: 6)
-
-pilaitės
-   Eilutes: 27 32   (skirtingu eiluciu: 2)
-
-pilies
-   Eilutes: 167 269   (skirtingu eiluciu: 2)
-
-pilis
-   Eilutes: 265 267   (skirtingu eiluciu: 2)
-
-pilių
-   Eilutes: 34 289   (skirtingu eiluciu: 2)
-
-pirmieji
-   Eilutes: 190 196   (skirtingu eiluciu: 2)
-
-pirmojo
-   Eilutes: 84 455   (skirtingu eiluciu: 2)
-
-pirmą
-   Eilutes: 79 82   (skirtingu eiluciu: 2)
-
-plyti
-   Eilutes: 16 29   (skirtingu eiluciu: 2)
-
-po
-   Eilutes: 82 84 91   (skirtingu eiluciu: 3)
-
-pradėjo
-   Eilutes: 202 311   (skirtingu eiluciu: 2)
-
-pradžioje
-   Eilutes: 79 114 192 464   (skirtingu eiluciu: 4)
-
-prasidėjo
-   Eilutes: 91 196   (skirtingu eiluciu: 2)
-
-prezidentūra
-   Eilutes: 1 263   (skirtingu eiluciu: 2)
-
-prie
-   Eilutes: 16 27 109 210 221 235 283 294 445 456   (skirtingu eiluciu: 10)
-
-prieš
-   Eilutes: 95 147 165   (skirtingu eiluciu: 3)
-
-priklauso
-   Eilutes: 104 289 407   (skirtingu eiluciu: 3)
-
-prisidėti
-   Eilutes: 109 221 235   (skirtingu eiluciu: 3)
-
-profesinio
-   Eilutes: 350 360 361   (skirtingu eiluciu: 3)
-
-projekto
-   Eilutes: 449 468 469 484 489 495   (skirtingu eiluciu: 6)
-
-psl
-   Eilutes: 426 427 428 436 437 438 439 440 441 443 446 457 459 460   (skirtingu eiluciu: 14)
-
-pėsčiųjų
-   Eilutes: 145 150 152 156   (skirtingu eiluciu: 4)
-
-rasų
-   Eilutes: 295 297   (skirtingu eiluciu: 2)
-
-redakcija
-   Eilutes: 457 460   (skirtingu eiluciu: 2)
-
-regiono
-   Eilutes: 79 91 122   (skirtingu eiluciu: 3)
-
-remdamiesi
-   Eilutes: 221 235   (skirtingu eiluciu: 2)
-
-rengimo
-   Eilutes: 355 360   (skirtingu eiluciu: 2)
-
-respublikos
-   Eilutes: 1 263 445 461 463   (skirtingu eiluciu: 5)
-
-riešės
-   Eilutes: 16 27   (skirtingu eiluciu: 2)
-
-rinkos
-   Eilutes: 354 356   (skirtingu eiluciu: 2)
-
-rodyti
-   Eilutes: 47 232   (skirtingu eiluciu: 2)
-
-rokantiškių
-   Eilutes: 18 27 175   (skirtingu eiluciu: 3)
-
-rotušės
-   Eilutes: 208 276 278 280 283   (skirtingu eiluciu: 5)
-
-rus
-   Eilutes: 427 436 465   (skirtingu eiluciu: 3)
-
-rusai
-   Eilutes: 82 237   (skirtingu eiluciu: 2)
-
-rusijos
-   Eilutes: 82 84   (skirtingu eiluciu: 2)
-
-rytinė
-   Eilutes: 16 27   (skirtingu eiluciu: 2)
-
-rytų
-   Eilutes: 8 23 58 76   (skirtingu eiluciu: 4)
-
-rūmai
-   Eilutes: 275 309   (skirtingu eiluciu: 2)
-
-santakoje
-   Eilutes: 11 275   (skirtingu eiluciu: 2)
-
-sapiegų
-   Eilutes: 32 34   (skirtingu eiluciu: 2)
-
-saugomos
-   Eilutes: 34 49   (skirtingu eiluciu: 2)
-
-savivaldybė
-   Eilutes: 98 100 104   (skirtingu eiluciu: 3)
-
-savivaldybės
-   Eilutes: 1 49 102 104 106 116 304 374   (skirtingu eiluciu: 8)
-
-senamiestis
-   Eilutes: 3 97 378 380   (skirtingu eiluciu: 4)
-
-senamiesčio
-   Eilutes: 486 487   (skirtingu eiluciu: 2)
-
-seniausių
-   Eilutes: 275 299   (skirtingu eiluciu: 2)
-
-senoji
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-senojo
-   Eilutes: 280 494   (skirtingu eiluciu: 2)
-
-sentikiai
-   Eilutes: 249 405 407   (skirtingu eiluciu: 3)
-
-sietinas
-   Eilutes: 6 76   (skirtingu eiluciu: 2)
-
-sinagoga
-   Eilutes: 410 414 415   (skirtingu eiluciu: 3)
-
-skaičius
-   Eilutes: 129 434 464   (skirtingu eiluciu: 3)
-
-skveras
-   Eilutes: 209 210 214   (skirtingu eiluciu: 3)
-
-sostine
-   Eilutes: 91 97   (skirtingu eiluciu: 2)
-
-sostinė
-   Eilutes: 1 84 86   (skirtingu eiluciu: 3)
-
-sostinės
-   Eilutes: 112 122 196   (skirtingu eiluciu: 3)
-
-sovietai
-   Eilutes: 86 91 95   (skirtingu eiluciu: 3)
-
-sovietų
-   Eilutes: 88 91 95   (skirtingu eiluciu: 3)
-
-sparčiai
-   Eilutes: 93 128   (skirtingu eiluciu: 2)
-
-srovę
-   Eilutes: 147 165   (skirtingu eiluciu: 2)
-
-statistikos
-   Eilutes: 445 455 456 458 461 462 463   (skirtingu eiluciu: 7)
-
-stačiais
-   Eilutes: 16 269   (skirtingu eiluciu: 2)
-
-stačiatikių
-   Eilutes: 283 410   (skirtingu eiluciu: 2)
-
-stepono
-   Eilutes: 86 174   (skirtingu eiluciu: 2)
-
-stiliumi
-   Eilutes: 280 410   (skirtingu eiluciu: 2)
-
-stilių
-   Eilutes: 109 389   (skirtingu eiluciu: 2)
-
-straipsnis
-   Eilutes: 72 100 139 188 267 273 278 287 292 297 302 307 380   (skirtingu eiluciu: 13)
-
-straipsnyje
-   Eilutes: 220 234   (skirtingu eiluciu: 2)
-
-su
-   Eilutes: 6 23 76 88 120 269 275 283 311 410 484 488   (skirtingu eiluciu: 12)
-
-sudaro
-   Eilutes: 13 16   (skirtingu eiluciu: 2)
-
-sudarė
-   Eilutes: 116 124   (skirtingu eiluciu: 2)
-
-sudėtis
-   Eilutes: 236 243   (skirtingu eiluciu: 2)
-
-sukurta
-   Eilutes: 79 122 280   (skirtingu eiluciu: 3)
-
-surašymo
-   Eilutes: 455 458 461 463   (skirtingu eiluciu: 4)
-
-surinkti
-   Eilutes: 192 450   (skirtingu eiluciu: 2)
-
-svarbiausių
-   Eilutes: 283 299   (skirtingu eiluciu: 2)
-
-sąjungos
-   Eilutes: 88 95   (skirtingu eiluciu: 2)
-
-sąrašą
-   Eilutes: 3 97 382   (skirtingu eiluciu: 3)
-
-taip
-   Eilutes: 6 8 16 79 112 275 423   (skirtingu eiluciu: 7)
-
-tapo
-   Eilutes: 79 88 91 97 280 452   (skirtingu eiluciu: 6)
-
-tarmėse
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-tarp
-   Eilutes: 223 309   (skirtingu eiluciu: 2)
-
-tarybinė
-   Eilutes: 457 459   (skirtingu eiluciu: 2)
-
-tauro
-   Eilutes: 309 311   (skirtingu eiluciu: 2)
-
-tačiau
-   Eilutes: 25 84   (skirtingu eiluciu: 2)
-
-technologijų
-   Eilutes: 361 362 365   (skirtingu eiluciu: 3)
-
-televizijos
-   Eilutes: 95 290 292   (skirtingu eiluciu: 3)
-
-telkšo
-   Eilutes: 27 104   (skirtingu eiluciu: 2)
-
-temperatūra
-   Eilutes: 52 60 65   (skirtingu eiluciu: 3)
-
-teresės
-   Eilutes: 283 394   (skirtingu eiluciu: 2)
-
-teritorijoje
-   Eilutes: 23 91 104   (skirtingu eiluciu: 3)
-
-teritorijos
-   Eilutes: 13 49   (skirtingu eiluciu: 2)
-
-th
-   Eilutes: 429 430 466   (skirtingu eiluciu: 3)
-
-the
-   Eilutes: 429 430 467   (skirtingu eiluciu: 3)
-
-ties
-   Eilutes: 16 25   (skirtingu eiluciu: 2)
-
-tik
-   Eilutes: 25 275 283 311   (skirtingu eiluciu: 4)
-
-tikrinta
-   Eilutes: 444 445 451   (skirtingu eiluciu: 3)
-
-tiltai
-   Eilutes: 137 147 165   (skirtingu eiluciu: 3)
-
-tiltas
-   Eilutes: 141 142 143 149 150 151 152 153 154 155 156 157 158 159 160 161 167 168 169 170 171 172 173 174 175 176 177   (skirtingu eiluciu: 27)
-
-tipo
-   Eilutes: 196 202   (skirtingu eiluciu: 2)
-
-to
-   Eilutes: 23 118   (skirtingu eiluciu: 2)
-
-tokio
-   Eilutes: 196 202   (skirtingu eiluciu: 2)
-
-transportas
-   Eilutes: 184 188   (skirtingu eiluciu: 2)
-
-transporto
-   Eilutes: 135 194 358   (skirtingu eiluciu: 3)
-
-trijų
-   Eilutes: 118 284 285 287   (skirtingu eiluciu: 4)
-
-troleibusai
-   Eilutes: 190 192 450   (skirtingu eiluciu: 3)
-
-troleibusas
-   Eilutes: 185 196   (skirtingu eiluciu: 2)
-
-troleibusų
-   Eilutes: 190 196   (skirtingu eiluciu: 2)
-
-trys
-   Eilutes: 275 283 289   (skirtingu eiluciu: 3)
-
-tsr
-   Eilutes: 456 458   (skirtingu eiluciu: 2)
-
-turizmo
-   Eilutes: 128 363   (skirtingu eiluciu: 2)
-
-tą
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-unesco
-   Eilutes: 3 97 382   (skirtingu eiluciu: 3)
-
-universitetas
-   Eilutes: 79 86 319 322 324 328 329 332   (skirtingu eiluciu: 8)
-
-universiteto
-   Eilutes: 79 331 336 375   (skirtingu eiluciu: 4)
-
-universitetą
-   Eilutes: 79 84   (skirtingu eiluciu: 2)
-
-uostas
-   Eilutes: 198 477   (skirtingu eiluciu: 2)
-
-upė
-   Eilutes: 6 23 40 41   (skirtingu eiluciu: 4)
-
-upės
-   Eilutes: 8 16 56 76 79   (skirtingu eiluciu: 5)
-
-upėvardis
-   Eilutes: 6 76   (skirtingu eiluciu: 2)
-
-už
-   Eilutes: 32 283   (skirtingu eiluciu: 2)
-
-užsienio
-   Eilutes: 1 112 124   (skirtingu eiluciu: 3)
-
-užėmė
-   Eilutes: 82 88 91 95   (skirtingu eiluciu: 4)
-
-vadinamas
-   Eilutes: 311 382   (skirtingu eiluciu: 2)
-
-vadinti
-   Eilutes: 8 311   (skirtingu eiluciu: 2)
-
-vakarų
-   Eilutes: 79 122   (skirtingu eiluciu: 2)
-
-valdyba
-   Eilutes: 456 458   (skirtingu eiluciu: 2)
-
-valdžia
-   Eilutes: 84 106   (skirtingu eiluciu: 2)
-
-valdžios
-   Eilutes: 1 112   (skirtingu eiluciu: 2)
-
-vardas
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-vardo
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-variantas
-   Eilutes: 6 76   (skirtingu eiluciu: 2)
-
-vartų
-   Eilutes: 283 403   (skirtingu eiluciu: 2)
-
-veikia
-   Eilutes: 1 126 200 205   (skirtingu eiluciu: 4)
-
-veikė
-   Eilutes: 86 114   (skirtingu eiluciu: 2)
-
-verkių
-   Eilutes: 27 32 34   (skirtingu eiluciu: 3)
-
-verslo
-   Eilutes: 202 304 331 357 358 360 361 363 365   (skirtingu eiluciu: 9)
-
-vid
-   Eilutes: 64 65 66   (skirtingu eiluciu: 3)
-
-vidurio
-   Eilutes: 122 283   (skirtingu eiluciu: 2)
-
-viena
-   Eilutes: 25 407   (skirtingu eiluciu: 2)
-
-vienam
-   Eilutes: 112 120 122 124   (skirtingu eiluciu: 4)
-
-vienas
-   Eilutes: 259 280 283 304 311 382   (skirtingu eiluciu: 6)
-
-vienos
-   Eilutes: 32 299   (skirtingu eiluciu: 2)
-
-vietos
-   Eilutes: 34 283 311 455   (skirtingu eiluciu: 4)
-
-vietovės
-   Eilutes: 456 458 461 462   (skirtingu eiluciu: 4)
-
-viešasis
-   Eilutes: 184 188 190   (skirtingu eiluciu: 3)
-
-vikipedijos
-   Eilutes: 108 109 221 235   (skirtingu eiluciu: 4)
-
-vilko
-   Eilutes: 79 155   (skirtingu eiluciu: 2)
-
-vilna
-   Eilutes: 8 76 428 429 430   (skirtingu eiluciu: 5)
-
-vilnia
-   Eilutes: 6 8 16 23 76   (skirtingu eiluciu: 5)
-
-vilniaus
-   Eilutes: 1 3 8 29 32 49 61 69 72 76 79 82 84 86 88 89 91 93 97 100 104 106 116 120 128 129 185 188 190 196 198 216 222 236 267 269 275 280 283 289 292 304 309 314 319 321 322 323 330 331 336 342 354 355 356 357 358 359 360 361 362 363 365 373 374 375 380 402 407 410 412 413 414 415 445 462 470 477 478 479 483 484 485 486 487 488 489 493 494   (skirtingu eiluciu: 89)
-
-vilnios
-   Eilutes: 6 11 40 41 76   (skirtingu eiluciu: 5)
-
-vilnis
-   Eilutes: 76 192   (skirtingu eiluciu: 2)
-
-vilniui
-   Eilutes: 77 79   (skirtingu eiluciu: 2)
-
-vilniuje
-   Eilutes: 32 58 86 91 93 95 196 280 304 450 452   (skirtingu eiluciu: 11)
-
-vilnius
-   Eilutes: 1 6 8 76 79 84 88 97 283 426 435 440 441 442 443 456 457 458 459 460 461 462 463 468 470 495   (skirtingu eiluciu: 26)
-
-vilniuslt
-   Eilutes: 451 476   (skirtingu eiluciu: 2)
-
-vilnią
-   Eilutes: 139 145 165   (skirtingu eiluciu: 3)
-
-vilnių
-   Eilutes: 79 82 86 88 91 95 104 275 474   (skirtingu eiluciu: 9)
-
-vingio
-   Eilutes: 25 32 34 42 43 44 45 152 419   (skirtingu eiluciu: 9)
-
-viršijo
-   Eilutes: 120 122   (skirtingu eiluciu: 2)
-
-visa
-   Eilutes: 84 88 275   (skirtingu eiluciu: 3)
-
-visi
-   Eilutes: 112 133   (skirtingu eiluciu: 2)
-
-viso
-   Eilutes: 124 196 237   (skirtingu eiluciu: 3)
-
-visoje
-   Eilutes: 58 79 283   (skirtingu eiluciu: 3)
-
-visų
-   Eilutes: 314 392   (skirtingu eiluciu: 2)
-
-vokiečių
-   Eilutes: 88 207   (skirtingu eiluciu: 2)
-
-vyko
-   Eilutes: 95 421   (skirtingu eiluciu: 2)
-
-vyriausioji
-   Eilutes: 457 460   (skirtingu eiluciu: 2)
-
-vystėsi
-   Eilutes: 84 93   (skirtingu eiluciu: 2)
-
-vėliau
-   Eilutes: 79 86   (skirtingu eiluciu: 2)
-
-wayback
-   Eilutes: 449 468 469 484 489 495   (skirtingu eiluciu: 6)
-
-wilno
-   Eilutes: 8 428 430 446   (skirtingu eiluciu: 4)
-
-xiii
-   Eilutes: 79 446   (skirtingu eiluciu: 2)
-
-xix
-   Eilutes: 74 407   (skirtingu eiluciu: 2)
-
-xv
-   Eilutes: 8 76 442   (skirtingu eiluciu: 3)
-
-xviii
-   Eilutes: 82 275   (skirtingu eiluciu: 2)
-
-yra
-   Eilutes: 1 6 8 11 16 18 20 25 27 32 34 52 76 112 145 190 198 220 234 275 280 283 294 304 309 311 382 385 389 410 419   (skirtingu eiluciu: 31)
-
-°c
-   Eilutes: 52 54 56 63 64 65 66 67   (skirtingu eiluciu: 8)
-
-Čia
-   Eilutes: 283 299 304   (skirtingu eiluciu: 3)
-
-Čiurlionis
-   Eilutes: 259 299   (skirtingu eiluciu: 2)
-
-čia
-   Eilutes: 389 410   (skirtingu eiluciu: 2)
-
-Ėmimo
-   Eilutes: 410 412 413   (skirtingu eiluciu: 3)
-
-Įkurtos
-   Eilutes: 93 299   (skirtingu eiluciu: 2)
-
-įmonės
-   Eilutes: 114 190   (skirtingu eiluciu: 2)
-
-įsigalėjo
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-įsigalėjęs
-   Eilutes: 6 76   (skirtingu eiluciu: 2)
-
-įstaigos
-   Eilutes: 135 312 350   (skirtingu eiluciu: 3)
-
-įtrauktas
-   Eilutes: 3 97 382   (skirtingu eiluciu: 3)
-
-Šeškinės
-   Eilutes: 20 36 37   (skirtingu eiluciu: 3)
-
-Šiame
-   Eilutes: 220 234   (skirtingu eiluciu: 2)
-
-Šiaurės
-   Eilutes: 16 29 79 82 91   (skirtingu eiluciu: 5)
-
-Šv
-   Eilutes: 263 280 283 330 387 393 394 395 397 398 400 401 410   (skirtingu eiluciu: 13)
-
-Šventosios
-   Eilutes: 79 396   (skirtingu eiluciu: 2)
-
-Švč
-   Eilutes: 283 391 399 403 407   (skirtingu eiluciu: 5)
-
-šaltiniais
-   Eilutes: 221 235   (skirtingu eiluciu: 2)
-
-šaltinis
-   Eilutes: 114 116 118   (skirtingu eiluciu: 3)
-
-šalyse
-   Eilutes: 304 407   (skirtingu eiluciu: 2)
-
-šiaurėje
-   Eilutes: 16 27   (skirtingu eiluciu: 2)
-
-šiaurės
-   Eilutes: 16 27 32   (skirtingu eiluciu: 3)
-
-šio
-   Eilutes: 280 311   (skirtingu eiluciu: 2)
-
-šios
-   Eilutes: 275 283   (skirtingu eiluciu: 2)
-
-šlaitais
-   Eilutes: 16 269   (skirtingu eiluciu: 2)
-
-šv
-   Eilutes: 210 280   (skirtingu eiluciu: 2)
-
-Žemiausia
-   Eilutes: 18 67   (skirtingu eiluciu: 2)
-
-Žirmūnų
-   Eilutes: 143 159 356   (skirtingu eiluciu: 3)
-
-Žvėryno
-   Eilutes: 34 154 202   (skirtingu eiluciu: 3)
-
-žemėlapis
-   Eilutes: 80 484 485 486 488 489   (skirtingu eiluciu: 6)
-
-žinoma
-   Eilutes: 8 76   (skirtingu eiluciu: 2)
-
-žodžiu
-   Eilutes: 6 76   (skirtingu eiluciu: 2)
-
-žr
-   Eilutes: 389 410   (skirtingu eiluciu: 2)
-
-žydų
-   Eilutes: 79 88 283 410   (skirtingu eiluciu: 4)
-
-„amber
-   Eilutes: 192 450   (skirtingu eiluciu: 2)
-
-„lietuvos
-   Eilutes: 77 440 445   (skirtingu eiluciu: 3)
-
-„siemens“
-   Eilutes: 419 421   (skirtingu eiluciu: 2)
-
-„vilniaus
-   Eilutes: 190 444   (skirtingu eiluciu: 2)
-
-„Šviesa“
-   Eilutes: 438 439   (skirtingu eiluciu: 2)
-
+Zodis                    Eilutes
+--------------------------------------------------
+adomas                   259 283 
+aikštė                   208 213 215 217 270 271 273 276 278 280 300 302 304 
+aikštės                  280 283 
+akademija                320 321 
+alyta                    8 76 
+alytus                   8 76 
+amber                    192 450 
+amžiaus                  76 79 
+angl                     428 429 430 
+ant                      289 311 
+antavilių                27 32 
+apaštalų                 393 397 
+apgyvendinimo            129 135 
+apie                     8 76 79 88 389 474 
+apskrities               1 373 462 
+ar                       108 311 
+arba                     118 311 
+archiveorg               484 489 495 
+archyvuota               449 468 469 484 489 495 
+arkikatedra              275 402 
+armija                   82 88 
+atnaujinkite             221 235 
+atnaujinti               220 234 
+atsiveria                16 275 
+auga                     32 128 
+aukštosios               326 334 
+aukštutinė               265 267 275 
+aukščiausia              63 64 
+aukščiausias             294 304 
+aukščiausių              32 478 
+autobusų                 190 194 198 200 
+aušros                   281 283 403 
+baltasis                 141 156 
+baltijos                 11 16 112 304 407 
+balžio                   27 38 39 
+based                    429 430 
+batoro                   86 174 
+bažnyčia                 280 283 387 391 392 393 394 395 396 397 398 399 400 401 410 
+bažnyčios                210 280 
+bažnyčių                 263 389 
+be                       23 220 
+bei                      27 79 104 275 283 
+belmonto                 32 173 
+bendriniu                6 76 
+bendrinėje               6 76 
+bent                     220 234 
+bernardinų               32 169 263 
+bet                      82 104 275 
+biblioteka               79 372 373 374 375 
+bokštas                  275 290 292 304 
+britannica               428 429 430 
+buvo                     82 84 86 88 122 124 
+bvp                      112 120 122 
+būna                     56 58 
+centras                  1 84 112 352 354 355 356 360 361 362 367 368 
+centre                   280 309 
+centrinė                 16 374 456 458 
+centro                   11 486 
+centrų                   283 304 
+cerkvė                   283 407 
+dailės                   168 321 
+dalis                    16 27 82 120 220 234 311 
+dangų                    410 412 413 
+dar                      23 283 311 
+darbo                    354 356 
+darbuotojų               352 360 
+daug                     34 112 
+daugiau                  118 120 389 410 
+daugiausia               16 32 
+departamentas            445 461 462 463 
+didysis                  77 79 
+didžiausias              190 419 
+didžiausių               304 407 
+dievo                    391 407 410 412 413 
+dirbo                    114 259 
+du                       104 120 
+duomenys                 60 69 455 456 458 461 
+dvasios                  283 396 410 
+dėl                      16 112 283 
+edition                  428 429 430 466 
+ekonomika                93 107 
+enciklopedija            442 443 457 459 460 
+enciklopedijų            435 440 442 443 457 459 460 
+encyclopedia             429 430 
+erdvė                    275 280 283 
+eur                      120 124 
+europoje                 79 283 
+europos                  11 97 217 300 302 304 329 382 421 
+evangelikai              250 251 
+ežeras                   27 38 39 
+ežerų                    27 104 
+forma                    8 76 
+formos                   8 76 
+gariūnų                  20 149 
+gatves                   192 196 450 
+gatvė                    207 216 283 
+gatvės                   174 177 283 
+gedimino                 79 269 275 322 
+geležinio                79 155 
+geležinkelio             91 175 198 358 
+greitieji                190 194 
+gyvenamosios             456 458 461 462 
+gyventojai               132 219 311 434 462 463 
+gyventojui               112 120 122 124 
+gyventojų                82 88 222 236 434 455 456 458 461 463 464 
+iki                      79 84 196 419 
+informacijos             220 234 
+informaciją              221 235 
+institutas               435 440 441 442 443 459 
+intakas                  16 23 
+interaktyvi              429 430 
+ir                       1 8 11 16 27 32 34 52 58 76 79 82 84 88 104 109 112 118 120 122 124 128 135 145 181 183 185 190 194 202 207 223 259 263 275 280 283 299 304 309 312 320 328 352 357 358 361 362 363 365 393 397 401 410 423 435 440 442 443 456 459 462 486 
+isbn                     435 467 
+istorija                 70 72 275 
+iš                       8 23 118 124 196 261 382 441 449 468 469 484 489 495 
+išlikusi                 8 76 
+jas                      389 410 
+jau                      8 451 
+jeruzalės                27 354 
+jis                      91 112 
+jo                       108 275 309 311 
+jono                     283 401 
+jos                      79 280 311 
+juozapo                  311 330 
+jų                       88 118 283 462 
+kad                      8 283 
+kaimo                    207 456 458 461 
+kaip                     8 58 76 79 84 104 275 
+kalboje                  6 8 76 
+kalbos                   8 76 441 
+kalno                    269 289 311 
+kalnų                    32 289 419 
+kapinės                  295 297 407 
+karo                     82 84 91 
+kartą                    79 82 
+katalikai                247 386 
+katalikų                 283 389 
+katedra                  410 412 413 
+katedros                 213 214 270 271 273 280 
+kaunas                   438 439 455 
+kazimiero                280 332 
+keletas                  23 27 
+keliai                   179 183 
+kitas                    23 135 145 
+kiti                     20 126 237 254 299 
+kitos                    334 408 410 
+kitur                    27 58 
+kitų                     79 104 
+klimatas                 50 52 61 69 444 
+km                       11 16 
+konstantinas             259 299 
+konstantino              209 341 
+kopija                   449 468 469 484 489 495 
+koplyčia                 283 403 
+kovo                     79 95 196 
+krepšinio                421 423 
+krituliai                60 68 
+kryžiai                  275 289 
+kryžių                   284 285 287 
+kt                       27 32 34 410 
+kudirkos                 215 309 
+kultūra                  79 377 
+kultūros                 79 97 259 
+kunigaikštis             77 79 
+kur                      27 32 441 
+kuri                     8 76 280 
+kurie                    95 275 
+kurioje                  275 283 
+kurios                   16 79 280 
+kursuoja                 190 451 
+kviečiame                109 221 235 
+labai                    23 79 
+laikotarpio              79 124 
+lazdynų                  32 151 419 
+legenda                  79 311 
+leidimas                 435 440 
+leidybos                 435 440 442 443 459 
+lenkai                   86 237 
+liepos                   194 202 434 
+lietuva                  84 88 95 426 443 
+lietuviškoji             457 459 
+lietuvių                 76 426 441 442 
+lietuvoje                11 58 79 104 192 280 304 385 
+lietuvos                 1 8 32 76 77 79 86 88 91 112 122 126 132 275 280 294 311 320 434 438 440 445 455 456 458 460 461 463 
+lietuvą                  88 91 
+link                     16 283 
+liubarto                 142 153 
+lotynų                   8 76 
+lygį                     122 311 
+machine                  449 468 469 484 489 495 
+marijos                  283 399 403 
+maršrutai                190 194 
+maršrutų                 190 194 
+matomi                   275 309 
+mergelės                 283 399 403 
+metų                     77 82 458 461 463 464 
+mickevičius              259 283 
+miestas                  1 8 23 82 382 
+mieste                   27 76 79 112 114 118 190 202 
+miesto                   1 8 13 16 18 23 32 49 76 79 82 100 104 106 110 128 260 275 280 304 374 445 476 483 485 
+miestą                   6 8 23 82 86 104 
+miestų                   79 104 434 440 
+mikalojaus               341 398 
+mikalojus                259 299 
+mindaugo                 158 202 
+miškai                   13 32 
+mln                      116 118 
+mlrd                     122 124 
+mm                       52 68 
+modelį                   8 76 
+mokslo                   259 435 440 442 443 459 
+mokykla                  331 341 347 353 357 358 359 363 364 365 366 
+mokyklos                 314 326 334 338 343 345 346 
+mokymo                   350 354 356 361 362 367 368 
+motinos                  403 407 410 412 413 
+msur                     224 226 228 230 
+nacionalinė              341 372 
+namų                     88 91 211 
+naujų                    91 196 451 
+ne                       8 104 275 283 
+neries                   11 16 18 23 202 275 294 304 
+neryje                   25 186 
+nerį                     23 145 147 
+nors                     82 311 
+nuo                      1 8 11 60 76 79 84 91 95 202 269 275 280 283 311 407 
+nuolatinių               434 464 
+nuoroda                  444 445 451 
+objektai                 126 260 438 
+of                       366 429 467 469 
+on                       429 430 
+onos                     263 387 400 
+or                       428 430 
+oro                      60 198 477 
+ozas                     20 36 37 
+padaryta                 8 76 
+pagal                    8 76 108 222 275 311 
+pagrindinis              32 72 100 139 188 267 273 278 287 292 297 302 307 380 
+pakraštyje               27 29 
+pakraštys                16 32 
+pakraščiais              16 23 
+paminklas                284 285 287 289 382 
+pamėnkalnis              305 307 309 
+panerių                  20 32 
+panorama                 74 89 493 
+parkas                   32 42 43 44 45 
+parke                    34 289 
+parko                    34 152 419 
+pasaulio                 3 97 382 439 
+pasenusi                 220 234 
+pasižymi                 112 269 
+paslaugų                 358 359 360 
+pastatai                 13 304 
+pastatyta                93 407 
+pastatų                  382 478 
+pat                      6 8 16 79 275 423 
+patikimais               221 235 
+pats                     8 79 
+patį                     8 76 
+pavadinimas              76 311 
+paveldo                  3 97 382 
+pavilnių                 32 34 
+paviršius                14 16 18 
+per                      32 88 139 145 147 165 
+pilaitės                 27 32 
+pilies                   167 269 
+pilis                    265 267 
+pilių                    34 289 
+pirmieji                 190 196 
+pirmojo                  84 455 
+pirmą                    79 82 
+plyti                    16 29 
+po                       82 84 91 
+pradėjo                  202 311 
+pradžioje                79 114 192 464 
+prasidėjo                91 196 
+prezidentūra             1 263 
+prie                     16 27 109 210 221 235 283 294 445 456 
+prieš                    95 147 165 
+priklauso                104 289 407 
+prisidėti                109 221 235 
+profesinio               350 360 361 
+projekto                 449 468 469 484 489 495 
+psl                      426 427 428 436 437 438 439 440 441 443 446 457 459 460 
+pėsčiųjų                 145 150 152 156 
+rasų                     295 297 
+redakcija                457 460 
+regiono                  79 91 122 
+remdamiesi               221 235 
+rengimo                  355 360 
+respublikos              1 263 445 461 463 
+riešės                   16 27 
+rinkos                   354 356 
+rodyti                   47 232 
+rokantiškių              18 27 175 
+rotušės                  208 276 278 280 283 
+rus                      427 436 465 
+rusai                    82 237 
+rusijos                  82 84 
+rytinė                   16 27 
+rytų                     8 23 58 76 
+rūmai                    275 309 
+santakoje                11 275 
+sapiegų                  32 34 
+saugomos                 34 49 
+savivaldybė              98 100 104 445 
+savivaldybės             1 49 102 104 106 116 304 374 
+senamiestis              3 97 378 380 
+senamiesčio              486 487 
+seniausių                275 299 
+senoji                   8 76 
+senojo                   280 494 
+sentikiai                249 405 407 
+siemens                  419 421 
+sietinas                 6 76 
+sinagoga                 410 414 415 
+skaičius                 129 434 464 
+skveras                  209 210 214 
+sostine                  91 97 
+sostinė                  1 84 86 
+sostinės                 112 122 196 451 
+sovietai                 86 91 95 
+sovietų                  88 91 95 
+sparčiai                 93 128 
+srovę                    147 165 
+statistikos              445 455 456 458 461 462 463 
+stačiais                 16 269 
+stačiatikių              283 410 
+stepono                  86 174 
+stiliumi                 280 410 
+stilių                   109 389 
+straipsnis               72 100 139 188 267 273 278 287 292 297 302 307 380 
+straipsnyje              220 234 
+su                       6 23 76 88 120 269 275 283 311 410 484 488 
+sudaro                   13 16 
+sudarė                   116 124 
+sudėtis                  236 243 
+sukurta                  79 122 280 
+surašymo                 455 458 461 463 
+surinkti                 192 450 
+svarbiausių              283 299 
+sąjungos                 88 95 
+sąrašą                   3 97 382 
+taip                     6 8 16 79 112 275 423 
+tapo                     79 88 91 97 280 452 
+tarmėse                  8 76 
+tarp                     223 309 
+tarybinė                 457 459 
+tauro                    309 311 
+tačiau                   25 84 
+technologijų             361 362 365 
+televizijos              95 290 292 
+telkšo                   27 104 
+temperatūra              52 60 65 
+teresės                  283 394 
+teritorijoje             23 91 104 
+teritorijos              13 49 
+th                       429 430 466 
+the                      429 430 467 
+ties                     16 25 
+tik                      25 275 283 311 
+tikrinta                 444 445 451 
+tiltai                   137 147 165 
+tiltas                   141 142 143 149 150 151 152 153 154 155 156 157 158 159 160 161 167 168 169 170 171 172 173 174 175 176 177 
+tipo                     196 202 
+to                       23 118 
+tokio                    196 202 
+transportas              184 188 190 
+transporto               135 194 358 
+trijų                    118 284 285 287 
+troleibusai              190 192 450 
+troleibusas              185 196 
+troleibusų               190 196 451 
+trys                     275 283 289 
+tsr                      456 458 
+turizmo                  128 363 
+tą                       8 76 
+unesco                   3 97 382 
+universitetas            79 86 319 322 324 328 329 332 
+universiteto             79 331 336 375 
+universitetą             79 84 
+uostas                   198 477 
+upė                      6 23 40 41 
+upės                     8 16 56 76 79 
+upėvardis                6 76 
+už                       32 283 
+užsienio                 1 112 124 
+užėmė                    82 88 91 95 
+vadinamas                311 382 
+vadinti                  8 311 
+vakarų                   79 122 
+valdyba                  456 458 
+valdžia                  84 106 
+valdžios                 1 112 
+vardas                   8 76 
+vardo                    8 76 
+variantas                6 76 
+vartų                    283 403 
+veikia                   1 126 200 205 
+veikė                    86 114 
+verkių                   27 32 34 
+verslo                   202 304 331 357 358 360 361 363 365 
+vid                      64 65 66 
+vidurio                  122 283 
+viena                    25 407 
+vienam                   112 120 122 124 
+vienas                   259 280 283 304 311 382 
+vienos                   32 299 
+vietos                   34 283 311 455 
+vietovės                 456 458 461 462 
+viešasis                 184 188 190 
+vikipedijos              108 109 221 235 
+vilko                    79 155 
+vilna                    8 76 428 429 430 
+vilnia                   6 8 16 23 76 
+vilniaus                 1 3 8 29 32 49 61 69 72 76 79 82 84 86 88 89 91 93 97 100 104 106 116 120 128 129 185 188 190 196 198 216 222 236 267 269 275 280 283 289 292 304 309 314 319 321 322 323 330 331 336 342 354 355 356 357 358 359 360 361 362 363 365 373 374 375 380 402 407 410 412 413 414 415 444 445 462 470 477 478 479 483 484 485 486 487 488 489 493 494 
+vilnios                  6 11 40 41 76 
+vilnis                   6 76 192 450 
+vilniui                  77 79 
+vilniuje                 32 58 86 91 93 95 196 280 304 450 452 
+vilnius                  1 6 8 76 79 84 88 97 283 426 435 440 441 442 443 456 457 458 459 460 461 462 463 468 470 495 
+vilniuslt                451 476 
+vilnią                   139 145 165 
+vilnių                   79 82 86 88 91 95 104 275 474 
+vingio                   25 32 34 42 43 44 45 152 419 
+viršijo                  120 122 
+visa                     84 88 275 
+visi                     112 133 
+viso                     124 196 237 
+visoje                   58 79 283 
+visų                     314 392 
+vokiečių                 88 207 
+vyko                     95 421 
+vyriausioji              457 460 
+vystėsi                  84 93 
+vėliau                   79 86 
+wayback                  449 468 469 484 489 495 
+wilno                    8 428 430 446 
+xiii                     79 446 
+xix                      74 407 
+xv                       8 76 442 
+xviii                    82 275 
+yra                      1 6 8 11 16 18 20 25 27 32 34 52 76 112 145 190 198 220 234 275 280 283 294 304 309 311 382 385 389 410 419 
+°c                       52 54 56 63 64 65 66 67 
+Čia                      283 299 304 
+Čiurlionis               259 299 
+čia                      389 410 
+Ėmimo                    410 412 413 
+Įkurtos                  93 299 
+įmonės                   114 190 
+įsigalėjo                8 76 
+įsigalėjęs               6 76 
+įstaigos                 135 312 350 
+įtrauktas                3 97 382 
+Šeškinės                 20 36 37 
+Šiame                    220 234 
+Šiaurės                  16 29 79 82 91 283 
+Šv                       263 280 283 330 387 393 394 395 397 398 400 401 410 
+Šventosios               79 396 
+Šviesa                   438 439 
+Švč                      283 391 399 403 407 
+šaltiniais               221 235 
+šaltinis                 114 116 118 
+šalyse                   304 407 
+šiaurėje                 16 27 
+šiaurės                  16 27 32 
+šio                      280 311 
+šios                     275 283 
+šlaitais                 16 269 
+šv                       210 280 
+Žalgirio                 419 423 
+Žemiausia                18 67 
+Žirmūnų                  143 159 356 
+Žvėryno                  34 154 202 
+žemėlapis                80 484 485 486 488 489 
+žinoma                   8 76 
+žodžiu                   6 76 
+žr                       389 410 
+žydų                     79 88 283 410 
