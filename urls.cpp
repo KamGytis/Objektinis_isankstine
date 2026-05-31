@@ -37,7 +37,9 @@ void findURLs(const std::string& inputFile, const std::string& outputFile) {
     std::set<std::string> urls;
     std::string word;
     while (input >> word) {
-        while (!word.empty() && (word.back() == '.' || word.back() == ',' || word.back() == ')' || word.back() == ';'))
+        while (!word.empty() && (word.front() == '(' || word.front() == '"' || word.front() == ')'))
+            word.erase(0, 1);
+        while (!word.empty() && (word.back() == '.' || word.back() == ',' || word.back() == ')' || word.back() == ';' || word.back() == '"'))
             word.pop_back();
         std::string tld = extractTLD(word);
         if (!tld.empty() && tlds.count(tld) > 0)
