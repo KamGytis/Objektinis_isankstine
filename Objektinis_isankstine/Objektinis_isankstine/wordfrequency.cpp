@@ -12,7 +12,18 @@ void wordFrequency(const std::string& inputFile, const std::string& outputFile) 
     std::string word;
     while (input >> word) {
         std::string clean = cleanWord(word);
-        if (clean.size() > 1) wordCount[clean]++;
+        int charLen = 0;
+        for (size_t i = 0; i < clean.size(); ) {
+            unsigned char c = clean[i];
+            if (c < 0x80) i += 1;
+            else if (c < 0xE0) i += 2;
+            else i += 3;
+            charLen++;
+        }
+        bool hasLetter = false;
+        for (unsigned char ch : clean)
+            if (ch < 0x80 && std::isalpha(ch)) { hasLetter = true; break; }
+        if ((charLen >= 2 || (charLen == 1 && (unsigned char)clean[0] >= 0x80)) && hasLetter ) wordCount[clean]++;
     }
     input.close();
     std::ofstream output(outputFile);

@@ -8,7 +8,8 @@ std::string cleanWord(const std::string& word) {
         unsigned char c = (unsigned char)word[i];
         if (c < 0x80) {
             if (std::isalpha(c)) result += (char)std::tolower(c);
-            else if (c == '-' && !result.empty()) result += '-';
+            else if (c == '-' && !result.empty() && i + 1 < word.size() && std::isalpha((unsigned char)word[i + 1]))
+            result += '-';
             i++;
         }
         else {
