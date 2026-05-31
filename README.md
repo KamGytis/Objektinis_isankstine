@@ -1,4 +1,4 @@
-# Asociatyvių Konteinerių Užduotis
+# Objektinio egzamino (išankstinė) užduotis
 
 ## Apie programą
 
