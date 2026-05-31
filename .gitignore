@@ -1,5 +1,5 @@
 .vs/
-
+.vxcproj
 bin/
 obj/
 *.user
