@@ -124,7 +124,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Objektinis_isankstine.cpp" />
+    <ClCompile Include="cleanword.cpp" />
+    <ClCompile Include="crossrefernece.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="urls.cpp" />
+    <ClCompile Include="wordfrequency.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cleanword.h" />
+    <ClInclude Include="crossreference.h" />
+    <ClInclude Include="urls.h" />
+    <ClInclude Include="wordfrequency.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

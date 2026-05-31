@@ -15,8 +15,34 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Objektinis_isankstine.cpp">
+    <ClCompile Include="cleanword.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="wordfrequency.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crossrefernece.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="urls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cleanword.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wordfrequency.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crossreference.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="urls.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

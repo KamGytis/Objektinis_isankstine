@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include "wordfrequency.h"
 #include "crossreference.h"
 #include "urls.h"
