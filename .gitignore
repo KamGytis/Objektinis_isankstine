@@ -1,3 +1,11 @@
+x64/
+out/
+*.vcxproj
+*.vcxproj.filters
+*.sln
+1_zodziu_daznumas.txt
+2_crossreference.txt
+3_urls.txt
 .vs/
 .vxcproj
 bin/
